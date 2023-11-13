@@ -1,0 +1,1226 @@
+TEXT_inf.
+
+MAT:            mt
+MAP:            A
+TRM:
+Ndl:            04
+Ntr:  
+Nls:
+REG:            M
+
+
+SPEAKERS_inf.
+
+INp1:		G. P., M, 19, Milano, spontaneo, fluente, G>F
+INp2:		F. D.C., M, 21, Milano, spontaneo, fluente, F>G
+
+
+RECORDING_inf.
+
+TYP:		DAT
+LOC:		Milano/aula universitaria
+DAT:		24/01/02
+DUR:		16.22,698
+CON:		buone
+
+
+TRANSCRIPTION_inf.
+
+DAT:  
+CMT:  il locutore P1 presenta con frequanza fenomeni di creaky-voice
+Nst:  380
+
+
+p1G#1:  faccio P uno #<F#2> <breath># 
+
+
+p2F#2:  #<G#1> <tongue-click># sono Francesco e faccio <sp> P due <breath>
+
+
+p1G#3:  <inspiration> dunque <sp> devi partire <sp> da <breath> <inspiration>             <sp> poco sopra e in a+ <sp> e <ii>in alto a sinistra rispetto alla               televisione cioè la televisione in basso a sinistra
+
+la seconda produzione di 'televisione' è ipoarticolata
+ 
+
+p2F#4:  #<G#5> sì#
+
+
+p1G#5:  #<F#4> <eh>#
+
+
+p2F#6:  #<G#7> sì#
+
+
+p1G#7:  #<F#6> poc+# poco sopra<aa> sulla sinistra
+
+'poc+' - la 'c' è un'occlusiva velare sorda
+
+
+p2F#8:  poco #<G#9> sopra ?#
+
+
+p1G#9:  #<F#8> quasi vici+# <inspiration> <sp> vicino al bordo diciamo 
+        
+
+p2F#10:  cioè facendo tipo<oo> <sp> un pezzettino di diagonale<ee> a sinistra 
+
+
+p1G#11:  in alto a #<F#12> sinistra da#
+
+
+p2F#12:  #<G#11> quanto lungo ?#
+
+
+p1G#13:  <eeh> sarà due , tre #<F#14> centimetri#
+
+
+p2F#14:  #<G#13> due# o tre #<G#15> centimetri ?#
+
+
+p1G#15:  #<F#14> sì#
+
+
+p2F#16:  co 'na linea tipo<oo> <sp> quarantacinque #<G#17> gradi ?#
+
+
+p1G#17:  #<F#16> no no no# , lì c'è il punto di partenza
+
+
+p2F#18:  <ah> lì c'è il punto di #<G#19> partenza , okay# 
+
+
+p1G#19:  #<F#18> <vocal> sì# <sp> sì sì okay
+
+
+p2F#20:  sì sì
+
+
+p1G#21:  quello lì è il punto di partenza poi <sp> parti da lì vai sotto la 
+         televisione <breath> <tongue-click> <sp> <tongue-click>facendo                    una curva intorno
+
+
+p2F#22:  sotto la #<G#23> televisione ?#
+
+
+p1G#23:  #<F#22> sì# <lp> <vocal> <sp> curvi intorno poi <inspiration> 
+         <sp> torni in  su <breath>
+
+
+p2F#24:  ma la curva <ehm> <unclear> è sempre a una certa distanza dalla 
+         #<G#25> televisione oppure taglia la curva ?#
+
+
+p1G#25:  #<F#24> sì <eeh> sa+ <vocal> sarà a# un centimetro
+
+
+p2F#26:  un #<G#27> centimetro costà ?#
+
+
+p1G#27:  #<F#26> cioè fa<aa># <sp> <vocal> tipo una circonferenza intorno 
+         per un centimetro <inspiration> <sp> più o meno 
+
+p2F#28:  <ahah>
+
+
+p1G#29:  poi <inspiration>   vai <eeh> leggermen+ <sp> cioè , vai 
+         sopra la *televisiora con questa curva e fai <inspiration> <sp>                   un <sp> #<F#30> una s+# <breath> 
+
+
+p2F#30:  #<G#29> cioè devo passare anche# in mezzo agli sci<ii> ?
+
+
+p1G#31:  no , #<F#32> dove sono#
+
+
+p2F#32:  #<G#31> de+ / tra la televisione# e gli sci ?
+
+
+p1G#33:  dove sono gli sci ? <sp> o Dio ! <laugh> <inspiration> <sp> 
+         <aah>
+
+
+p2F#34:  <tongue-click> <sp> a destra de+ <sp> della televisione <sp> cos'è 
+          che c'hai tu ?
+
+
+p1G#35:  {<NOISE> niente} #<F#36> <laugh>#
+
+
+p2F#36:  #<G#35> niente#
+
+
+p1G#37:  {<laugh> perfetto allora <sp> <inspiration> <sp> tu <sp> <eeh> vai<ii>} 
+         <unclear> <sp> cioè non lo so per me è così tu devi andare <sp>                   <inspiration> <sp> e fai <sp> di girare intorno a 'sta  televisione e             andare su un po'
+
+'girare' è ipoarticolato
+
+
+p2F#38:  <mh>
+
+
+p1G#39:  probabilmente dove c'è / te c'hai gli sci , devi girare intorno 
+         pure agli sci <inspiration> <tongue-click> <inspiration> <vocal>
+
+
+p2F#40:  sì , io giro intorno alla televisione <sp> e vado su<uu> verticalmente 
+
+
+p1G#41:  non verticalmen+ cioè #<F#42> devi far# praticamente un'altra 
+         semicirconferenza <sp> e torni sotto la torta
+
+
+p2F#42:  #<G#41> no#
+
+<lp>
+
+
+p1G#43:  hai capito ? 
+
+
+<lp>
+
+
+p2F#44:  <ss>sì <sp> però più grande <sp> tipo <sp> #<G#45> più grande della               prima ?#
+
+
+p1G#45:  cioé #<F#44> devi<ii> / sì sì è un pò più# grande , sì <sp>                       <inspiration> <sp> #<F#46> e torni sotto la  torta# in modo che ci fai            un giro intorno <breath>
+
+
+p2F#46:  #<G#45> <eeh># <lp> sì <lp> ho #<G#47> capito#
+
+
+p1G#47:  #<F#46> ci fai# un giro intorno e torni indietro #<F#48> praticamente#
+
+
+p2F#48:  #<G#47> a che altezza# è l'apice della della curva più o meno <sp>                quand'è che devo scendere a che #<G#49> altezza rispetto alla torta#
+
+
+p1G#49:  #<F#48> <eeh> quando sei arrivata più# o meno all'altezza del+ <sp> 
+         massima della #<F#50> torta#
+
+
+p2F#50:  #<G#49> ecco# dimmi un {<NOISE> pochino} il vertice di di 'sta {<NOISE>           parabola} dove si colloca
+
+
+p1G#51:  si #<F#52> colloca più o m+# 
+
+
+p2F#52:  #<G#51> a che altezza# e a che <ehm> 
+
+
+p1G#53:  a che sì <sp> #<F#54> okay#
+
+
+p2F#54:  cioé tu hai come punti di riferimento televisione #<G#55> torta dimmi
+         esa+ / che s+ <ah>#
+
+
+p1G#55:  #<F#54> *tesatto <breath> <sp> <inspiration># <sp> allora sarebbe più o           meno a metà  tra le #<F#56> due#
+ 
+
+p2F#56:  #<G#55> <ahah>#
+
+
+p1G#57:  e all'altezza massima della torta
+
+
+p2F#58:  all'altezza massima della #<G#59> torta#
+
+
+p1G#59:  #<F#58> sì# <sp> cioè arrivi li <sp> e poi giri in giù <sp> e fai un              giro intorno alla #<F#60> torta#
+
+
+p2F#60:  #<G#59> ho capito#
+
+
+p1G#61:  ci sei ?
+
+
+p2F#62:  sì
+
+
+p1G#63:  poi una volta che #<F#64> sei dietro l+# 
+
+
+p2F#64:  #<G#63> <eeh># il giro intorno alla torta a che distanza ?  
+
+
+p1G#65:  <eeh> ma sempre più o #<F#66> meno#
+
+
+p2F#66:  #<G#65> un# #<G#67> centimetro#
+
+
+p1G#67:  #<F#66> sì un# po' più vicina di prima forse <sp> però più o meno lì              insomma
+
+la parola 'insomma' e ipoarticolata, non ci sono elementi per etichettarla
+
+
+p2F#68:  <ahah>
+
+
+p1G#69:  poi <sp> torni esattamente indietro verso la partenza <breath>
+
+
+p2F#70:  sì <breath>
+
+
+p1G#71:  #<F#72> e#
+
+
+p2F#72:  #<G#71> cioé girando# intorno alla torta #<G73> arrivando# tipo a ore
+         dodici rispetto alla torta ?
+
+
+p1G#73:  #<F#72> <eh># <P> #<F#74> sì <sp> esatto# vai dritto #<F#74>proprio#
+
+
+p2F#74:  #<G#73> e# <lp> #<G#73> e a# sinistra ?
+
+
+p1G#75:  sì tutto a sinistra #<p2F#76> dritto# <breath>
+
+
+p2F#76:  #<p1G#75> tutto# a sinistra #<p1F#77> ma<aa> è sempre rotondeggiante la           cur+ / la la linea oppure è spezzata ?
+
+'tutto' è ipoarticolato
+
+
+p1G#77:  #<p2#76> <ah> fino <sp> <breath> <sp> no no questa volta è dritta#                <breath> <sp> <inspiration> <sp> <eh> <vocal> si no <sp> <eeh> la <sp>            in che senso / cioè nel senso hai <sp> è dritta ? <sp> proprio una retta          <inspiration> che #<p2F#78> arriva dir+#
+
+
+
+p2F#78:  #<p1G#77> ma non è spezzata# <sp> cioè non è non è che si {<NOISE>                spezza} girata la torta ? <sp> no <sp> #<p1G#79> è sempre<ee># 
+ 
+
+p1G#79:  #<p2F#78> <ehm> no no# no<oo> ar+ <sp> #<p2F#80> cioè fa la curva e va            dritto# <sp> <inspiration> <sp> e ar+ / #<p2F#80> va dritto <breath># 
+
+
+p2F#80:  #<p1G#79> ho capito <sp> sì# <lp> #<p1G#79> passa sopra o sotto il#               vertice <lp>della {<NOISE> parabola} di #<p1G#81> {<NOISE>prima}# ?
+
+
+p1G#81:  #<p2F#80> e passa# leggermente sopra
+
+
+p2F#82:  a che distanza più o meno ?
+
+
+p1G#83:  <eh> un centime+ / mezzo centimetro forse anche no f+ / m+ / uno fai
+
+
+p2F#84:  <mh> <sp> <vocal> <sp> okay
+
+
+p1G#85:  poi <sp> <tongue-click> #<p2F#86> quando arri+#
+
+
+p2F#86:  #<p1G#85> ma tu c'hai un# pettine ?
+ 
+
+p1G#87:  <eh> più in alto {<laugh> #<p2F#88> però#}
+
+
+
+p2F#88:  #<p1G#87> più in alto# ?
+
+
+p1G#89:  sì ma lì io non non lo {<laugh> #<p2F#90> vedo#}
+
+
+p2F#90:  #<p1G#90> lo tocca# o<oo>
+
+
+p1G#91:  no no ma cioè proprio più in alto {<laugh> io ce l'ho} non ce l'ho lì
+
+
+p2F#92:  cosa ?
+
+
+p1G#93:  e io non ce l'ho lì
+
+
+p2F#94:  <ah> non ce l'hai lì
+
+
+p1G#95:  no 
+
+
+p2F#96:  e cosa<aa> c+ / c'hai #<p1G#97> qualcosa<aa> sopra# 
+
+'c+' è occlusiva velare sorda
+
+
+p1G#97:  #<p2F#96> no<oo># <sp> <inspiration> <sp> #<p2F#98> s+ <sp> io s+#
+
+
+p2F#98:  #<p1G#97> sopra la# parabola ?
+
+
+p1G#99:  sopra la parabola no , nulla
+
+
+p2F#100:  no
+
+
+p1G#101:  niente
+
+
+p2F#102:  ho capito
+
+
+p1G#103:  mi {<laugh> spiace} #<F#104> <laugh> {<laugh> unclear> si dice}#
+
+
+p2F#104:  #<G#103> c'hai per caso# <sp> va be' poi c'avrai<ii> il tondino tu , no           ? <sp> sopra la
+
+
+p1G#105:  no as+
+
+
+p2F#106:  più in alto
+
+
+p1G#107:  più in alto <sp> p+ <sp> <ah> io so+ sopra ho<oo> praticamente un<nn>             <sp> de+ <vocal> dei pallini con dentro delle stelle tipo
+
+
+p2F#108:  sì <sp> #<G#109> sì sì sì# 
+
+
+p1G#109:  #<F#108> ecco quando# tu arrivi <sp> andando #<F#110> dritto# 
+
+
+p2F#110:  #<G#109> okay#
+
+
+p1G#111:  sotto quelli <lp> <tongue-click> <inspiration> cominci a fare più o               meno una diagonale verso l'alto verso la macchina rossa quella a                  sinistra <lp> ci sei ?
+
+
+p2F#112:  cioè <sp> <eeh> ap+ / tipo a metà del foglio ?
+
+
+p1G#113:  leggermente olt+ / un po' oltre la metà #<F#114> fai <sp> anche# a tre            qua+ / a due #<F#114> terzi# <breath>
+
+
+p2F#114:  #<G#113> <mh> okay# <lp> #<G#113> si#
+
+
+p1G#115:  due terzi del foglio sei andato dritto fino a quel #<F#116> momento#
+
+
+p2F#116:  #<p1#115> sì#
+
+
+p1G#117:  giri <sp> in su <sp> di non so adesso <inspiration> più o meno<oo> <sp>           un po' meno di una diagonale di un quadrato {<laugh> diciamo}
+
+
+p2F#118:  sì ma am+ <NOISE> <eh> da <eeh> <breath>
+
+
+p1G#119:  verso la macchina #<F#120> rossa#
+
+
+p2F#120:  #<G#119> poi# <sp> immagino che<ee> girerà intorno alla #<G#121>                  macchina , no#
+
+
+p1G#121:  #<F#120> esatto# <sp> #<F#122> <vocal> molto vicino alla macchina#
+
+
+p2F#122:  #<G#121> ma d+ <sp> <vocal> da da che parte# gira <eh> <sp> dalla                 destra o dalla #<G#123> sinistra intor+ <sp> da sotto da sopra da#
+
+
+p1G#123:  #<F#122> arriva da sinistra <sp> da sotto# e poi gira intorno alla                macchina e va #<F#124> sopra#
+
+
+p2F#124:  #<G#123> da sotto# a sinistra della #<G#125> macchina ?#
+
+
+p1G#125:  #<F#124> sì# <sp> esatto <sp> <inspiration> <sp> ci giri intorno vai              sopra <breath>
+
+
+p2F#126:  a che distanza più o meno ?
+
+
+p1G#127:  beh molto vicino qua #<F#128> sembra#
+
+
+p2F#128:  #<G#127> molto vicino#  
+ 
+
+p1G#129:  sì <sp> <inspiration> <lp> <NOISE> <tongue-click> <sp> poi <sp>                   <breath> <sp> {<NOISE> ci sei ?}
+
+
+p2F#130:  sì 
+
+
+p1G#131:  poi una volta che hai fatto questo  vai <sp> verso l'altra macchina               rossa <breath> <lp> che #<F#132> dovrebbe# essere dalla parte opposta             del foglio
+ 
+
+p2F#132:  #<G#131> <mh># <lp> <tongue-click> sì che è
+
+
+p1G#133:  che è <sp> p+ / #<F#134> leggermente più m+# <sp> più in basso
+
+
+p2F#134:  #<G#133> che non è <breath># <lp> che da me non è rossa <breath>
+
+
+p1G#135:  <ah!> <sp> <inspiration> <sp> <eh> no ce n'è anche una azzurra qua
+
+
+p2F#136:  ma <sp> aspetta dov'è che è 'sta macchina ?
+
+
+p1G#137:  allora c'è un'a+ <sp> es+ esattamente sopra la torta <breath>  
+
+
+p2F#138:  esattamente sopra la torta <sp> #<G#139> sì# io c'ho un orologio                  <sp> poi so+ / un po' {<NOISE> più sopra} c'ho una macchina
+
+
+p1G#139:  #<F#138> <vocal># <lp> <NOISE> <lp> rossa ?     
+
+
+p2F#140:  no è di un altro #<G#141> *colora però <sp> penso che sia# 
+
+
+p1G#141:  #<F#140> <ah> <sp> <inspiration> e perché qua# ci son #<F#142> due                macchine#
+
+
+p2F#142:  #<G#141> è<ee> a destra# rispetto alle stelline
+
+
+p1G#143:  in basso a destra 
+
+
+p2F#144:  a+ alle sfere di dragon ball <breath>
+
+
+p1G#145:  <laugh> <inspiration> <sp> {<laugh> ma in basso a destra però}                    <inspiration> <sp> o e+ <sp> o alla stessa altezza ? <lp> <inspiration>           #<F146> perché io ne ho d+#
+
+
+p2F#146:  #<G#145> è un pochino# <NOISE> <sp> <vocal> è un {<NOISE> pochino} <sp>           <vocal> <ehm> {<NOISE> sopra} <lp> <inspiration> <sp> cioè è più o meno           simmetrica rispetto alla macchina #<G#147> rossa dove# ho appena girato
+
+
+p1G#147:  #<F#146> <eh># <lp> un pochino più in #<F#148> basso spe+#
+
+
+p2F#148:  #<G#147> è un pochino# più<uu> in alto <sp> #<G#149> un pochino più in             al+#
+
+
+p1G#149:  #<G#148> <eh> allora i+ / ce l'ho# pure io quella lì che deve essere              tipo<oo> <sp> o azzur+ / io #<F#150> sono dial+# <sp> son daltonico               però , per cui non faccio {<NOISE> molto} testo coi colori                        <inspiration> <sp> deve essere azzurra
+
+
+p2F#150:  #<G#149> <eeh># <P> sì tipo azzurrina
+
+
+p1G#151:  <eh> <sp> esatto <sp> <eh!> <vocal> però ce ne deve essere un'altra               rossa sotto <sp> #<F#152> almeno per quanto# mi risulta
+
+
+p2F#152:  #<G#151> <ss>so_tto ?# <sp> <inspiration> <sp> sarà l'orologio
+
+
+p1G#153:  #<F#154> <vocal> e allora sarà l'orologio#
+
+"allora" è ipoarticolato
+
+
+p2F#154:  #<G#153> è un po' più in basso ?#
+
+
+p1G#155:  sì     
+
+
+p2F#156:  okay
+
+
+p1G#157:  allora tu vai verso l'orologio <breath>
+
+"allora" è ipoarticolato
+
+
+p2F#158:  sì <sp> #<G#159> cioè scendo# anche un attimo
+
+
+p1G#159:  #<F#158> e ci# <sp> sì , scendi un po' <sp> e vai all'orologio ci giri            intorno #<F#160> e passi#
+
+
+p2F#160:  #<G#159> dal basso dall'alto# da+
+
+
+p1G#161:  e pas+ <sp> passi dal basso <breath>
+
+
+p2F#162:  <mh> 
+
+
+p1G#163:  all'inizio poi <sp> li+ ci giri intorno e passi in mezzo tra l'orologio           e la macchina azzurra
+
+
+p2F#164:  sì <sp> #<G#165> che distanza# ci giro intorno <sp> #<G#165> vicino#
+ 
+
+p1G#165:  #<F#164> capito ? <sp> okay# <sp> <inspiration> <sp> #<F#164> <eh> ci#            giri intorno sì<ii> <sp> al <sp>  allora all'inizio vicino poi ti                 allontani un po'
+ 
+
+p2F#166:  <mh> <breath> 
+
+
+p1G#167:  e poi passi esattamente in mezzo <breath> <lp> <tongue-click>                     <inspiration> <sp> son quasi arrivato alla fine <eh> <breath> 
+ 
+
+p2F#168:  <mh> <breath> 
+
+
+p1G#169:  poi quand+ <sp> a questo punto <sp> passi di fianco alla macchina                 azzurra <sp> <inspiration> <sp> e <sp> <eeh> <sp> arrivi più o meno di            fianco <sp> cioè <sp> <ehm> <breath> <sp> <tongue-click> <sp> al lato             <sp> alto delle delle sfere di dragon #<F#170> {<laugh> ball}#
+
+
+p2F#170:  #<G#169> sì#
+
+
+p1G#171:  e <vocal> *gli di fianco sulla destra fai un paio di centimetri e li              c'è il punto <sp> d'arrivo mio
+
+
+p2F#172:  <clear-throath> che è il mio punto di partenza immagino quindi io non             sto neanche a
+
+
+p1G#173:  esatto <sp> <unclear>
+
+
+p2F#174:  ma fa una curva<aa> una leggera #<G#175> curva tipo <sp> a / curva a              de+ <sp> cioè arriva verso le# sfere e #<G#175> poi#
+
+
+p1G#175:  #<F#174> <vocal> fa una leggera curva<aa> verso destra# <lp> #<F#174>             esatto# <breath> <sp> cioè #<F#176> non è una curva molto accen<nn>+#             <sp> <NOISE> <lp> <vocal> una curvetta #<F#176> insomma#
+
+"insomma" è ipoarticolato
+
+
+p2F#176:  #<G#175> <unclear># <lp> #<F#176> <vocal> <sp> va be'# insomma <sp>               <inspiration> <sp> e passa vicino a<aa> un / tu c'hai una farfalla per            #<G#177> caso ?#
+
+
+p1G#177:  #<F#176> no# non c'ho nulla <laugh>
+
+
+p2F#178:  <ah> comunque una<aa> <sp> una curva abbastanza #<G#179> dolce#
+
+
+p1G#179:  #<F#178> sì# sì
+
+
+p2F#180:  sulla sulla destra 
+
+
+p1G#181:  #<G#182> {<NOISE> esattamente}#
+
+
+a questo punto i parlanti invertono i ruoli
+
+
+p2G#182:  #<G#181> <vocal># <lp> bon <breath> <sp> #<F#183> allora <sp> da li#
+
+
+p1F#183:  #<G#182> attendo <laugh># <inspiration> <sp> sì
+
+
+p2G#184:  <ehm> <breath> <sp> tu hai presente più o meno un angolo di trenta                gradi ?
+
+
+p1F#185:  sì #<G186> posso far+#
+
+
+p2G#186:  #<F#185> <mh> <sp> <tongue-click> rispetto# a<aa> <sp> un'asse <sp>               #<F#187> orizzontale#
+
+
+p1F#187:  #<G#186> <mh># <breath> <lp> rispetto a <sp> all'orizzontale del foglio           ?
+
+
+p2G#188:  sì
+
+
+p1F#189:  okay <breath> 
+
+
+p2G#190:  ecco 
+
+
+p1F#191:  verso ?
+
+
+p2G#192:  verso destra <lp> tu c'hai un camion #<F#193> sopra ?#
+
+
+p1F#193:  #<G#192> sì#
+
+
+p2G#194:  <mh> ?
+
+
+p1F#195:  però molto più / di più di trenta g+ <sp> cioè devo raggiungere quel              camion lì ?  
+
+'g' è occlusiva velare sonora
+
+ 
+p2G#196:  ecco <sp> sì , devi<ii> girarci intorno<sp>  dalla<aa> <sp> #<p1F#197>            dal ba+#
+
+
+p1F#197:  ma andando #<G#196> dritto fino# <breath>
+
+
+p2G#198:  dal basso a destra del camion<nn>
+
+
+p1F#199:  sì <sp> aspe+ <sp> <inspiration> perché io ce l'ho un'al+ / però la la            / i+ / l'inclinazione della mia cosa a questo punto<oo> è                         molto più di trenta gradi <sp> almeno mi sembra
+
+
+p2G#200:  sì <ehm> <breath> <sp> <inspiration> <sp> fai 'na cosa #<F#201> allora#
+
+
+p1F#201:  #<G#200> sì# <sp> <vocal> devo #<G#202> raggiungere il camion io ?#
+
+
+p2G#202:  #<F#201> tu <breath> <sp> dal punto# <sp> dal punto
+
+
+p1F#203:  <eh> ? <lp> #<G#204> parto dal punto#
+
+
+p2G#204:  #<F#203> fai# <vocal> <ehm> parti dal {<NOISE> punto} fai u<uu>+ / vai            verso il camion
+
+
+p1F#205:  okay <sp> <tongue-click> <sp> <inspiration> <sp> sì <sp> <vocal> da in            basso a destra ci #<G#206> giro intorno#
+ 
+
+p2G#206:  #<F#205> sì# <lp> dal basso a destra ci giri intorno c'hai un  dado tu            #<F#207> poi sopra ?#
+
+
+p1F#207:  #<G#206> sì#
+
+
+p2G#208:  ecco <sp> #<F#209> passi abbastanza vicino# al camion
+
+
+p1F#209:  #<G#208> sopra <sp> leggerme+ <breath># <lp> <eh> ?
+
+
+p2G#210:  e poi <sp> <eh> allarghi la curva
+
+
+p1F#211:  <mh> <breath> <sp> e #<G#212> giro pure lì#
+
+
+p2G#212:  #<F#211> e# <sp> e giri anche intorno al dado abbastanza vicino
+
+
+p1F#213:  però non passo in mezzo tra i due
+
+
+p2G#214:  no , non passi in mezzo tra i due  #<G#215> passi intorno proprio                 dall'esterno# al dado e al camion
+
+
+p1F#215:  #<F#214> okay okay <sp> sì sì# <lp> okay <sp> <inspiration> <sp> s+ son           praticamente al margine alto del foglio ?
+
+
+p2G#216:  sì , #<F#217> esatto passi<ii># <sp> sopra al #<F#217> dado<oo># v+               <vocal> vicino al margine
+
+
+p1F#217:  #<G#216> okay# <sp> <inspiration> <sp> #<G#216> sì# <lp>  okay <sp>               #<G#218> poi# <lp> <tongue-click> dove #<G#218> vado# ?
+
+
+p2G#218:  #<F#217> poi in mezzo# <sp> <inspiration> <lp> poi #<F#217> scendi#
+
+
+p1F#219:  scendo<oo>
+
+
+p2G#220:  allora adesso c'è una specie di<ii> di parabola
+
+
+p1F#221:  #<G#220> <eh>#
+
+
+p2G#222:  #<F#221> ecco# <inspiration> ti dico più o meno dove stà il vertice               rivolto verso l'alto , no ?    
+
+
+p1F#223:  <mh> <sp> no aspetta perché io qua <sp> <inspiration> <sp> sto                    scendendo <breath> <sp> da dietro il dado
+
+
+p2G#224:  sì <breath> <sp> da dietro il dado
+
+
+p1F#225:   <mh>
+
+
+p2G#226:  dall'esterno no ? dall'esterno
+
+
+p1F#227:  sì <breath> <sp> scendo giù verticale ?
+
+
+p2G#228:  no , non<nn> <sp> è sempre una<aa> è sempre una<aa> una #<F#229> curva# 
+
+
+p1F#229:  #<g#228> okay#
+
+
+p2G#230:  però è una curva che scende e poi risale
+
+
+p1F#231:  <mh> #<G#232> <breath>#
+
+
+p2G#232:  #<F#231> e ti dico dov'è il# punto<oo> 
+
+
+p1F#233:  massimo
+
+
+p2G#234:  più più basso della<aa> 
+
+
+p1F#235:  <ah> è più #<F#236> basso che è rivolta verso# l'alto sì , scusa
+
+
+p2G#236:  #<F#235> di questa <sp> ecco#
+
+
+p1F#237:  va bene 
+
+
+p2G#238:  ecco <sp> il punto più basso <sp> è più o meno <lp> <eh> all'altezza /            tu c'hai un lupo ?
+
+
+p1F#239:  sì
+
+
+p2G#240:  ecco all'altezza delle orecchie del lupo
+
+
+p1F#241:  <mh>
+
+
+p2G#242:  <eh> <sp> alla punta delle orecchie del lupo
+
+
+p1F#243:  sì
+
+
+p2G#244:  e<ee> <sp> tu c'hai degli occhiali sotto ?
+
+
+p1F#245:  sì
+
+
+p2G#246:  <NOISE> ecco <sp>tu<uu> <sp> piglia l+ / de+ / la la stanghetta di                destra
+
+
+p1F#247:  <mh> 
+
+
+p2G#248:  no ?
+
+
+p1F#249:  #<G#250> su dritto#
+
+
+p2G#250:  #<F#249> <eeh># è sopra <sp> #<F#251> ecco la punta# della stanghetta             di destra
+
+
+p1F#251:  #<G#250> okay# <lp> quanto sopra ?
+
+
+p2G#252:  <eh> all'altezza delle orecchie del<ll> del #<F#253> lupo#
+
+
+p1F#253:  #<G#252> <ah># giusto sì <sp> okay qua
+
+
+p2G#254:  okay ?
+
+
+p1F#255:  #<G#256> sì#
+
+
+p2G#256:  #<G#257> quindi# adesso fai tu più o meno una {<NOISE> parabola}
+
+
+p1F#257:  #<p2G#258> sì sì#
+
+
+p2G#258:  #<F#257> e {<NOISE> poi}# passa intorno <ah> al lupo <sp> dall'esterno
+
+
+p1F#259:  molto lontano o vicino ?
+
+
+p2G#260:  <ehm> no , abbastanza vicino tipo<oo> <inspiration> <lp> tre quattro              millimetri
+
+
+p1F#261:  {[whispering] va bene} <breath> <lp> tutto intorno gli #<G#262> passo             <sp> d+ <sp> da in alto a de+#
+
+
+p2G#262:  #<F#261> sì f+ <sp> f+ <sp> arriva fino# arriva fino<oo> al lato                  sinistro però <sp> perché poi fa una<aa> <sp> ha una curva strana la la           <sp> #<F#263> il percorso#
+
+'strana la la' e ipoarticolato 
+
+
+p1F#263:  #<G#262> cioè cosa devo fare# ?    
+
+
+
+p2G#264:  arriva fino tipo a<aa>+ <ehm> <sp> <tongue-click> <sp> <unclear> <sp>             <ehm> <sp> #<F#265> a ore {<NOISE> nove}# rispetto al lupo <sp>                   #<F#265> fai#
+
+
+p1F#265:  #<G#264> alle zampe# <lp> #<G#264> okay ci# sono <sp> ci sono
+
+
+p2G#266:  okay ?
+
+
+p1F#267:  sì <breath>
+
+
+p2G#268:  ecco adesso scendi giù dritto <breath> 
+
+
+p1F#269:  dritto<oo> verticale
+
+
+p2G#270:  fino <lp> all'altezza della zampa sinis+ <sp> <vocal> <eeh> alla zampa            anteriore destra del lupo <lp> giù dritto <sp> #<F#271> verticale# 
+
+
+p1F#271:  #<G#270> cioè non fino# alla fine <sp> sarebbe <sp> okay <lp> #<G#272>            cioè quella# che è più #<G#272> indietro#
+
+
+p2G#272:  #<F#271> co+# <lp> #<F#271> si# quella che è più #<F#273> {<NOISE>                indietro}# davanti
+
+
+p1F#273:  #<G#272> okay# <lp> va bene
+
+
+p2G#274:  ecco adesso fai {<NOISE> tipo} una<aa> <breath> <sp> <tongue-click>               <inspiration> <lp> cioè praticamente devi passare into+ <eeh> intorno             al lupo
+
+
+p1F#275:  sì
+
+
+p2G#276:  e il so+ <sp> sotto <sp> <ehm> <sp> la zampa sotto <sp> è distante                dalla dalla linea del percorso di tipo un millimetro vicinissima <sp>             <inspiration> e devi s+ <sp> fare una specie di<ii> <ehm> quadrato                smussato <lp> intorno al<ll> intorno al lupo
+
+
+p1F#277:  <ah> #<G#278> intorno cioè rito+#
+
+
+p2G#278:  #<F#277> ecco forse ti è# più facile co+
+
+
+p1F#279:  ritorno verso gli #<G#280> occhiali# ?
+
+
+p2G#280:  #<F#279> sì , il# al {<NOISE> presente} la tu+ / la li+ / la cosa / la            linea che hai {<NOISE> fatto} intorno al #<F#281> lupo#
+
+
+p1F#281:  #<G#280> <mh>#
+
+
+p2G#282:  una specie di quadrato<oo> rettangolo smussato #<F#283> che passa                 intorno# alla <sp> alla sagoma del lupo
+
+
+p1F#283:  #<G#282> sì# <lp> <tongue-click> <sp> <ah> #<G#284> okay#
+
+
+p2G#284:  #<F#283> capito# ?
+
+
+p1F#285:  e quindi dove vado verso il #<G#286> dado# ?
+
+
+p2G#286:  #<F#285> adesso# vai verso gli occhiali
+
+
+p1F#287:  okay <breath> <lp> <breath> <sp> #<G#288> sì#
+
+
+p2G#288:  #<F#287> tu# praticamente hai fatto tre lati di questo quadrato                   smussato , #<F#289> no# ?
+
+
+p1F#289:  #<G#288> sì# <breath>
+
+
+p2G#290:  ecco adesso scendi <sp> <eeh> passa <sp> parallelo più o meno al<ll>              <sp> agli occhiali
+
+
+p1F#291:  sì
+
+
+p2G#292:  no ? <breath>
+
+
+p1F#293:  #<G#294> si#
+
+
+p2G#294:  #<F#293> {<NOISE> che}# son messi<ii> <sp> un po' obliqui
+
+
+p1F#295:  sì
+
+
+p2G#296:  no ? <sp> quindi è una #<F#297> linea un po' obliqua#
+
+
+p1F#297:  #<G#296> parallelo sotto# <breath>
+
+
+p2G#298:  una / sì , esatto parallelo sotto #<F#299> a<aa> agli# occhiali
+
+
+p1F#299:  #<G#298> sì#
+
+
+p2G#300:  vai giù <sp> e praticamente la curva s'accentua <sp> fino<oo> ad essere           <sp> praticamente verticale verso il basso <sp> <inspiration> <sp>                #<F#301> all'altezza# <sp> <tongue-click> <sp> alla {<NOISE> fine}                del<ll> delle lenti <lp> #<F#301> più o meno <breath>#
+
+
+p1F#301:  #<G#300> a va+# <sp> <breath> <lp> #<G#300> vado verso il                         basso# ? <sp> verso giù #<G#302> verso le s+ <sp> verso le sfere# ?
+
+
+p2G#302:  #<F#301> sì <sp> sì sì sì <sp> <tongue-click> accentua# la curva verso            il basso quando<oo> arrivi<ii> verso la fine degli occhiali
+
+
+p1F#303:  okay #<G#304> <breath># 
+
+
+p2G#304:  #<F#303> la<aa># l<ll>+  più o meno <sp> <vocal>  l+ <sp> alla                    fine delle lenti degli occhiali
+
+
+p1F#305:  sì
+
+
+p2G#306:  ecco adesso tu {<NOISE> c'hai<ii>} <lp> c'hai le s+ <vocal> le sfere ?
+
+
+p1F#307:  sì , ce le ho lì sotto io
+
+
+p2G#308:  ecco devi passare <lp> in mezzo alle sfere
+
+
+p1F#309:  #<G#310> <mhmh># <breath> 
+
+
+p2G#310:  #<F#309> tu# ce ne hai tre in linea in mezzo , no ? <sp> #<F#311> tre             allineate# in #<F#311> mezzo#
+
+
+p1F#311:  #<G#310> no a+# <lp> #<G#310> aspetta# io ne ho <breath>
+
+
+p2G#312:  tu quante allo+ / quante sfere hai ? hai<ii>
+
+
+p1F#313:  tre se+ / #<G#314> otto <breath>#
+
+
+p2G#314:  #<F#313> otto# sfere #<F#315> no# ?
+
+
+p1F#315:  #<G#314> sì# <sp> che #<G#316> sono a forma di Ci , tipo#
+
+
+p2G#316:  #<F#315> ecco sono <breath># <lp> sì , con una in mezzo
+
+
+p1F#317:  una più gros+ <sp> no  
+
+
+p2G#318:  ci sono <lp> tre sfere <sp> in mezzo , no ? 
+ 
+
+p1F#319:  #<G#320> no <sp> aspetta un a+#
+
+                                            
+p2G#320:  #<F#319> ci sono due a destra# <sp> tre <sp> in mezzo <lp> segui un po'           meno <ehm> tu devi passare in mezzo a 'ste sfere devi arrivare <sp> in            un punto <sp> <inspiration> <sp> che è sotto <sp><inspiration> <sp>               <ehm> <sp> alla sfera più bassa <lp> no ? <breath>                                               
+
+p1F#321:  <eh> aspe+ perché qua io non capisco molto <inspiration> <sp> cioè nel            #<G#322> senso#
+
+'cioè' è ipoarticolato
+
+
+p2G#322:  #<F#321> che cos'è che# non capisci ?
+
+
+p1F#323:  te <eh> perché tu mi dici tre sfere in mezzo non capisco #<G#324> cosa            intendi# <breath>
+
+
+p2G#324:  #<F#323> no aspetta aspetta# aspetta adesso ti spiego meglio <sp>                 allora #<F#325> il mio arrivo#
+
+
+p1F#325:  #<G#324> <mh> <breath># <sp> <NOISE> <sp> sì
+
+
+p2G#326:  è <sp> sotto la sfera più bassa
+
+
+p1F#327:  <mh> <breath>
+
+
+p2G#328:  no ? <lp> <inspiration> <lp> un pochino <sp> a destra in basso <lp>               {<NOISE> rispetto} alla sfera più bassa di tutte
+
+
+p1F#329:  ma le tue sfere sono a forma di Ci vero ? <lp> più o meno <sp> #<G#330>           a fo+ / o a forma# di U<uu> <lp> sono tipo a #<G#330> ferro di cavallo#
+
+
+p2G#330:  #<F#329> a forma d+# <lp> #<F#329> ma non guardare# la disposizione di            tutte le sfere
+
+  
+p1F#331:  <ah> e quindi cosa devo fare ? la sfera #<G#332> più bassa#
+
+
+p2G#332:  #<F#331> aspetta# tu ce l'hai<ii> <ehm> <breath> <sp> magari son                  disposte #<F#333> diverse le tue#
+
+
+p1F#333:  #<G#332> <eh> infatti# è quello che pe+ <breath>
+
+
+p2G#334:  ecco
+
+
+p1F#335:  e sono a ferro di cavallo le tue ?
+
+
+p2G#336:  allora
+
+
+p1F#337:  più o meno insomma dico
+
+
+p2G#338:  ce ne sono <breath> <lp> allora <ehm> <sp> parto dalla da+ dalle mie              più in alto
+          
+
+p1F#339:  #<G#338> sì# 
+
+p2G#340:  #<F#339> ce ne sono# due più in alto <sp> cioè tre più in alto di cui             quella in mezzo è piccolina <sp> son così le tue ? <sp> le tre più in             alto
+  
+
+p1F#341:  le tre più in alto ma <sp> <vocal> tu ce le hai messe dritte ? <sp>               rispetto al foglio <lp> son dritte ? <lp> perché io ho una figura                 storta
+
+
+p2G#342:  <eh> anch'io ce l'ho storta
+
+
+p1F#343:  <eh> okay <sp> <inspiration> <sp> <tongue-click> <sp> io c'ho le tre              più in alto di cui quella più in mezzo però è più grossa <breath> <lp>            e <sp> du+ <sp> una <sp> #<G#344> media#
+                                                                  
+
+p2G#344:  va be' #<F#343> si vede che# son diverse
+
+
+p1F#345:  boh , comunque <sp> non ho capito , scusa io devo #<G#346> passarci in#
+
+
+p2G#346:  #<F#345> tu c'hai una sfera# piccolina in alto ? <sp> #<F#347> ce                 l'hai# ?
+
+
+p1F#347:  #<G#346> sì# <sp> piccolina #<G#348> piccolina#
+
+
+p2G#348:  #<F#347> che è in mezzo# a due un po' più grosse ?  
+
+
+p1F#349:  no 
+
+
+p2G#350:  no ? <sp> #<F#351> allora c'abbiam le sfe+# 
+
+
+p1F#351:  #<G#350> l'ultima in alto a destra# <breath>
+
+
+p2G#352:  c'abbiam le sfere diverse <sp> #<F#353> niente# <sp> #<F#353> allora              tu# dov'è che sei arrivato a che punto sei #<F#353> arrivato col                  percorso# ?
+
+
+p1F#353:  #<G#352> e si vede# o ci #<G#352> <unclear># <lp> <tongue-click> <sp>             #<G#352>  sono arrivato# <sp> sotto gli occhiali , sto andando dritto
+
+
+p2G#354:  cioè in giù in verticale ?
+
+
+p1F#355:  si e sto <sp> non proprio in verticale sto puntando verso<oo> verso               però <sp> <vocal> l'ultima mia sfera a sinistra
+
+
+p2G#356:  ti dico dov'è il mio arrivo <vocal> #<F#357> e poi tu# tracci una linea           dritta 
+
+
+p1F#357:  #<G#356> dai# <lp> #<G#358>va bene#
+
+   
+p2G#358:  #<f#357> praticamente# <sp> <inspiration> <sp> allora il mio arrivo               <breath>
+
+
+p1F#359:  <mh>
+
+
+p2G#360:  è <sp> in mezzo <sp> al foglio
+
+
+p1F#361:  si <lp> #<g#362> in mezzo in <sp> in mezzo#
+
+
+p2G#362:  no ? <sp> #<F#361> tra le due macchine# <sp> <vocal> <sp> praticamente            in mezzo alle due macchine 
+
+
+p1F#363:  okay
+
+
+p2G#364:  hai presente la macchina #<F#365> azzurrina quella rossa# ?
+
+
+p1F#365:  #<G#364> sì sì sì <sp> okay# <lp> <tongue-click> lì
+
+
+p2G#366:  ecco
+
+
+p1F#367:  in mezzo
+
+
+p2G#368:  in mezzo
+
+
+p1F#369:  più o meno okay <sp> va bene
+
+okay è ipoarticolato
+
+
+p2G#370:  praticamente in mezzo anche al foglio <breath>
+
+"praticamente" è ipoarticolato
+
+
+p1F#371:  sì <lp> ci sono più o meno
+
+
+p2G#372:  tu devi fare <sp> una linea <sp> #<f#373> cioè la+#
+
+
+p1F#373:  #<G#372> sto andando dritto# io
+
+
+p2G#374:  sì {<NOISE> però} non puoi <ehm> e non vai esattamente giù in verticale
+
+
+p1F#375:  no no no sto un po' #<G#376> storto# <lp> #<G#376> forse anche troppo#
+
+
+p2G#376:  #<F#375> <eh># <sp> <vocal> ecco fai una #<F#375> una specie di<ii>#              <lp> di curva <sp> che poi {<NOISE> qua è} tutta spezzata boh non
+
+
+p1F#377:  <vocal> cioè #<G#378> andava un po'#
+
+
+p2G#378:  #<F#377> non si capisce# esattamente come è fatta 
+
+
+p1F#379:  va be' io sono arrivato #<G#380> {<laugh> ormai}#
+
+
+p2G#380:  #<F#379> ecco# <sp> basta
+                         
+          
+   
+
+
+ 

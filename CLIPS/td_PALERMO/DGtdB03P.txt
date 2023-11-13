@@ -1,0 +1,930 @@
+TEXT_inf.
+
+MAT:            td
+MAP:            B
+TRM:
+Ndl:            03
+Ntr:  
+Nls:
+REG:            P
+
+
+SPEAKERS_inf.
+
+INp1:  R. G., M, 26, Palermo, spontaneo, non fluente 
+INp2:  G. P., M, 31, Palermo, spontaneo, fluente 
+
+
+RECORDING_inf.
+
+TYP:  DAT
+LOC:  Palermo/Centro studi filologici e linguistici siciliani
+DAT:  16/07/01
+DUR:  9.16,513
+CON:  Buone
+
+
+TRANSCRIPTION_inf.
+
+DAT:  26/11/01
+CMT:
+Nst:  192
+
+
+p1#1:  dobbiamo trovare le <sp> le<ee> le differenze 
+       tra le due figure , #<p2#2> giusto ?#
+
+
+p2#2:  #<p1#1> sì#
+
+
+<sp>
+
+
+p1#3:  che figura hai tu ? io ho #<p2#4> praticamen+ un# bambino 
+       con un salvagente a forma di anatra <sp> #<p2#4> <inspiration> 
+       che sta guard+#
+ 
+
+p2#4:  #<p1#3> <tongue-click># <P> #<p1#3> una barchetta# sullo 
+       sfondo #<p1#5> un uovo#
+
+
+p1#5:  #<p2#4> che sta# <sp> #<p2#6> un uovo#
+
+
+p2#6:  #<p1#5> guardando un uovo# <sp> #<p1#7> sì# 
+
+
+p1#7:  #<p2#6> che# non credo che sia un uovo perchè sarà qualche 
+       o+ uovo di dinosauro , se no
+
+
+<sp>
+
+
+p2#8:  e una barchetta sullo sfondo e due #<p1#9> nuvole#
+
+
+p1#9:  #<p2#8> {[screaming] dove ce}# l'hai sta #<p2#10> barchetta 
+       sullo sfondo ?#
+
+
+p2#10:  #<p1#9> sulla destra#
+
+
+p1#11:  <inspiration> con una bandiera in cima ?
+
+
+p2#12:  sì
+
+
+<sp>
+
+
+p1#13:  <inspiration> e poi ce hai subito una nuvoletta che viene 
+        tagliata dal riquadro #<p2#14> del<ll> ?#
+
+
+p2#14:  #<p1#13> sì#
+
+
+<sp>
+
+
+p1#15:  sì
+
+
+<sp>
+
+
+p2#16:  che è uguale <vocal>
+
+
+p1#17:  #<p2#18> che è uguale# 
+
+
+p2#18:  #<p1#17> <inspiration> <vocal> invece# nella nuvoletta / partiamo<oo> da sopra
+        la nuvoletta che c'è a sinistra ?
+
+
+<sp>
+
+
+p1#19:  sì
+
+
+p2#20:  ci sono tutti #<p1#21> quei<ii> ?#
+
+
+p1#21:  #<p2#20> sono# quattro #<p2#22> <sp> uno , due , tre e quattro sì# 
+
+
+p2#22:  #<p1#21> due , quattro , va bene , allora 
+        questa# non è una differenza <vocal> la<aa> #<p1#23> <NOISE>#
+
+
+p1#23:  #<p2#22> andiamo<oo># #<p2#24> sul <breath>#
+
+
+p2#24:  #<p1#23> il salvagente# quanti ne ha di questi<ii> ? #<p1#25> ze+ / è 
+        zebrato# no ? 
+
+
+p1#25:  #<p2#24> <eeh># <lp> sì #<p2#26> uno , due#  tre , quattro , cinque 
+
+
+p2#26:  #<p1#25> quanti ne ha ?# <lp> {[whispering] uno , due , tre}, quattro e 
+        cinque , va #<p1#27> bene <inspiration>#
+
+
+p1#27:  #<p2#26> <vocal> e<ee> <breath>#
+
+
+p2#28:  qualche altro particolare ? l'uovo #<p1#29> quanti ne ha ? 
+        <sp> <breath>#
+
+
+p1#29:  #<p2#28> {<laugh> <unclear> come ce l'ha l'occhio <unclear>}# 
+        <inspiration> ce l'ha storto o dritto ?
+
+
+<lp>
+
+
+p2#30:  ce #<p1#31> l'ha in basso<oo> <laugh>#
+
+
+p1#31:  #<p2#30> no , no scherzo <inspiration> è una battuta# va bene
+
+
+p2#32:  <inspiration> #<p1#33> senti#
+
+
+p1#33:  #<p2#32> vediamo# il bimbo vediamo allora
+
+
+<sp>
+
+
+p2#34:  {[whispering] <eh>} <sp> <tongue-click> quanti ne ha di questi<ii> segnali 
+        nel #<p1#35> cor+#
+
+
+p1#35:  #<p2#34> comunque io# sono <vocal> <sp> per farti capire #<p2#36> <unclear>#
+
+
+p2#36:  #<p1#35> l'ombelico# ce l'ha ?
+
+
+p1#37:  <inspiration> <vocal> <sp> sì <lp> <vocal> poi praticamente ha<aa> 
+        <sp> <eeh> <sp> sta guardando in basso
+
+
+p2#38:  <mhmh>
+
+
+p1#39:  <inspiration> ha<aa> <lp> il naso
+
+
+<sp>
+
+
+p2#40:  <mh> #<p1#41> <lp># {[whispering] sopracciglio ?} #<p1#41> ne ho uno#
+
+
+p1#41:  #<p2#40> <unclear># <lp> #<p2#40> solo uno#
+
+
+p2#42:  uno <mh> <vocal> #<p1#43> <inspiration>#
+
+
+p1#43:  #<p2#42> sì# <sp> poi praticamente ha un ciuffetto di 
+        capelli al di sotto dell'orecchio , il tuo pure ce l'ha ?
+
+
+<lp>
+
+
+p2#44:  #<p1#45> {[whispering] s+  al di sotto dell'orecchio} sì sì sì 
+        <sp> sì sì {[whispering] s+}# <sp> sì
+
+
+p1#45:  #<p2#44> il p+ <sp> il prolungamento dei capelli che si vede sì#
+
+
+p2#46:  #<p1#47> <inspiration># <eeh> <sp> {[whispering] va bene poi <unclear> 
+        qualche altro} #<p1#47> <inspiration>#
+
+
+p1#47:  #<p2#46> <inspiration># <P> #<p2#46> <inspiration> guardiamo<oo># chiaramen+ 
+        <ehm> guardiamo l'uovo
+
+
+<sp>
+
+
+p2#48:  <tongue-click> l'uovo quanti ne ha di<ii>
+
+
+p1#49:  <inspiration> tre gro+ tre
+
+
+<sp>
+
+
+p2#50:  tre grossi <inspiration> #<p1#51> e ce# l'ha poi <uu>u+ 
+        sotto nell'ultimo #<p1#51> <sp> quello in# basso , ce l'ha una 
+        specie di<ii>
+
+
+p1#51:  #<p2#50> sì# <lp> #<p2#50> <vocal> sì# <lp> <vocal> come se 
+        esis+ sì <lp> sì c'ha un #<p2#52> prolunga+# cioè quella 
+        è<ee> il segnale #<p2#52> del <vocal> il#
+
+
+p2#52:  #<p1#51> {[whispering] vero ?}# <lp> #<p1#51> allora non 
+        ci sono# differenze
+
+
+<sp>
+
+
+p1#53:  <inspiration> io non le vedo le differenze neanche se le vedo cioè 
+        se le , se le confronto #<p2#54> le due# figure quindi che 
+        figuriamoci #<p2#54> così <sp> <laugh> {<laugh> <unclear> così mi 
+        pare proprio <inspiration> impossibile}#
+
+
+p2#54:  #<p1#53> <inspiration># <lp> #<p1#53> <laugh> <inspiration> senti 
+        la barchetta ce l'ha due# quattro , cinque puntini ?
+
+
+<sp>
+
+
+p1#55:  te l'ho detto prima Massimo , uno , due , tre , quattro e 
+        #<p2#56> cinque sì#
+
+
+p2#56:  #<p1#55> no quello# nella #<p1#57> nuvola era , nella barchetta 
+       <sp> {[whispering] sì}#
+
+
+p1#57:  #<p2#56> <inspiration> <ah!> cinque puntini sì# <inspiration> #<p2#58> e poi<ii># / 
+        <sp> allora tutto {<laugh> sta nel} mare #<p2#58> vediamo di trovare 
+        {<laugh> qualche differenza} <laugh> qualche differenza nel ma+#
+
+
+p2#58:  #<p1#57> <inspiration># <P> #<p1#57> <laugh> {<laugh> no aspetta} 
+        sono troppe onde <inspiration># la<aa> <ehm> come è combinata 
+        la<aa> <ehm> #<p1#59> <sp> <vocal>#
+
+
+p1#59:  #<p2#58> aspetta# sai dov'è ? #<p2#60> <NOISE>#
+
+
+p2#60:  #<p1#59> <eh>#
+
+
+p1#61:  nel costume del bambino c'è una 
+        differenza #<p2#62> sicuramente#
+
+
+p2#62:  #<p1#61> ma io non lo vedo# il costume
+
+
+<sp>
+
+
+
+p1#63:  come non lo #<p2#64> vedi ?#
+
+
+p2#64:  #<p1#63> ma# dov'è il costume ?
+
+
+<lp>
+
+
+p1#65:  {[whispering] il costume Ma+}
+
+
+<lp>
+
+
+p2#66:  <ah!> il costume
+
+
+<sp>
+
+
+p1#67:  <tongue-click> <inspiration> il costume<ee> / quei punti che #<p2#68> ha# 
+
+
+p2#68:  #<p1#67> <eh>#
+
+
+<sp>
+
+
+p1#69:  che dovrebbero essere uno , due , tre <sp> quattro <sp> cinque e 
+        sei , sette , otto e nove
+
+
+<sp>
+
+
+p2#70:  nove #<p1#71> <sp> diciamo#
+
+
+p1#71:  #<p2#70> lì è una differenza# sicuro
+
+
+p2#72:  <inspiration> <ehm> due, qua_ttro , cinque poi ce ne sono
+        alcuni uniti , #<p1#73> due# <sp> e sei sette io ne ho
+
+
+p1#73:  #<p2#72> <breath># <P> <vocal> <breath> #<p2#74> {<laugh> vabbè io 
+        pure sette <breath> <inspiration>}# 
+
+
+p2#74:  #<p1#73> <laugh> s+ la# bandiera ce l'hai la bandierina ?
+
+
+<sp>
+
+
+p1#75:  te l+ / sì #<p2#76> in cima# alla barchetta 
+
+
+p2#76:  #<p1#75> nel# <lp> #<p1#77> <eeh> ci so+ / c'è una differenza qua#
+
+
+p1#77:  #<p2#76> <vocal> io spero che non ci prenderà nessuno per# cretini 
+        dopo che abbiamo #<p2#78> fatto questa cosa , comunque <NOISE> <vocal>#
+
+
+p2#78:  #<p1#77> <inspiration> c'è sicuro una differenza# qua
+
+
+<sp>
+
+
+p1#79:  nella #<p2#80> barchetta ? due vele# cioè si vede<ee> due linee<ee> 
+        <sp> che non è neanche / <sp> due vele ci sono
+
+
+p2#80:  #<p1#79> <vocal> nella ba+ # <P> sì
+
+
+<sp>
+
+
+p1#81:  <vocal> #<p2#82> <inspiration># {[screaming] <ah!> aspetta} Massimo 
+        una cosa , il / l'uovo dove ce l'hai tu ? sul / a<aa> #<p2#82> <breath>#
+
+
+p2#82:  #<p1#81> {[whispering] boh}# <P> #<p1#81> a destra#
+
+
+p1#83:  a destra in basso #<p2#84> <vocal># a<aa> <mh> #<p2#84> <eeh>#
+
+
+p2#84:  #<p1#83> <mh># <lp> #<p1#83> <vocal> alle# spalle del bimbo
+
+
+<sp>
+
+
+p1#85:  sì <sp> #<p2#86> in# basso a<aa> circa<aa> due centimetri dal<ll> 
+        dal limi+ del fo+ del<ll> del ri+ del riquadro ?
+
+p2#86:  #<p1#85> <mh># <P> no proprio<oo> adiacente al<ll> riquadro
+
+
+<sp>
+
+
+p1#87:  attaccato ?
+
+
+p2#88:  sì
+
+
+<sp>
+
+
+p1#89:  e questa già è una differenza , io ce l'ho <unclear> <eeh> <unclear> un 
+        po' più spostato sulla sulla sinistra <sp> <inspiration> 
+        #<p2#90> <eeh> che devo <breath>#
+
+
+p2#90:  #<p1#89> no aspe+ scusami# no aspe+ è attaccato alla base 
+        alla<aa> / sulla linea destra è staccato di qualche #<p1#91> centimetro#
+
+
+p1#91:  #<p2#90> e# allora giusto è <inspiration> allora allora giusto 
+
+
+<lp>
+
+
+p2#92:  <inspiration> invece una #<p1#93> cosa#
+
+
+p1#93:  #<p2#92> i piedi#
+
+
+<lp>
+
+
+p2#94:  io ne ho uno {[whispering] piede}
+
+
+<sp>
+
+
+p1#95:  no #<p2#96> due piedi# ne hai
+
+
+p2#96:  #<p1#95> <breath># {<NOISE> <lp>} {[whispering] no due 
+        gius+} <inspiration> <sp> <vocal> ques+ <eeh> c'ha il malleolo ce l'ha ? 
+        #<p1#97> <lp> <laugh># <P> disegnato o no ?
+
+
+p1#97:  #<p2#96> <laugh># <P> sì
+
+
+<sp>
+
+
+p2#98:  <eh> <inspiration>
+
+
+p1#99:  tu lo sai che cos'è il malleolo vero ? <sp> <eh> <sp> #<p2#100> se 
+        te lo chiedono# sai che cos'è ?
+
+
+p2#100:  #<p1#99> <eh> della# <vocal> <sp> #<p1#101> del ca+ della caviglia#
+
+
+p1#101:  #<p2#100> <inspiration> <clear-throath># <sp> <eh>
+
+
+p2#102:  #<p1#103> l'osso della caviglia ce l'ha no ?#
+
+
+p1#103:  #<p2#102> <inspiration> <vocal> <unclear> <ah># vero perchè il 
+         malleolo <inspiration> va #<p2#104> bene poi ?#
+
+
+p2#104:  #<p1#103> le ginocchia# ce l'ha segnate tutte #<p1#105> due ?#
+
+
+p1#105:  #<p2#104> <vocal> sì# sì
+
+
+<sp>
+
+
+p2#106:  <eeh> e poi c'ha<aa> <lp> l'altro osso diciamo co+ come si 
+         chiama l'altro della caviglia pure no ? due ne ha <sp> segnati , 
+         uno interno #<p1#107> e uno este+ <mh>#
+
+
+p1#107:  #<p2#106> sì sì sì# sì {[whispering] sì sì sì } <sp> 
+         il pollice l'alluce come ce l'ha ?
+
+
+<sp>
+
+
+p2#108:  <vocal> <sp> io il<ll> <eeh> #<p1#109> qua <vocal>#
+
+
+p1#109:  #<p1#108> pronunciato ?#
+
+
+p2#110:  <mh> <nn>no verame+ cioè #<p1#111> ce l'ha <mh> a punta <sp> 
+         a punta <inspiration>#
+
+
+p1#111:  #<p2#110> <inspiration> quando {<laugh> passano 'sti die+ 'sti 
+         dieci minuti} <laugh># <inspiration> allora vediamo #<p2#112> 
+         un'altra co+#
+
+
+p2#112:  #<p1#111> ce l'ha a punta# ce l'ha
+
+
+<sp>
+
+
+p1#113:  <tongue-click> <eh> sì #<p2#114> va bene <sp> <tongue-click>#
+
+
+p2#114:  #<p1#113> <inspiration> senti qua# il<ll> c'ha <uu>n 
+         <vocal> praticamente dove si gonfia il<ll> salvagente com'è 
+         #<p1#115> combinato ?#
+
+
+p1#115 :  #<p2#114> <inspiration># <ah> c'è #<p2#116> in pratica# 
+          un<nn> <vocal> <inspiration> <tongue-click> <breath> a forma 
+          <breath> <lp> <vocal> <sp> non lo posso dire 
+          che cosa ha forma , comunque è<ee> 
+
+
+p2#116:  #<p1#115> <eh># <P> ma<aa> dimmi una cosa la<aa> <mh> <eeh> 
+         <vocal> la bandierina tu come ce l'hai ? quadrata #<p1#117> 
+         rettangol+ <eeh> triangola+ ?#
+
+
+p1#117:  #<p2#116> <vocal> triangolare#
+
+
+<sp>
+
+
+p2#118:  triangolare
+
+
+<lp> <NOISE>
+
+
+p1#119:  triangolare
+
+
+p2#120:  c'è una differenza là mi hanno segnalato dall'esterno 
+         #<p1#121> <breath>#
+
+
+p1#121:  #<p2#120> <ah>#
+
+
+<sp>
+
+p2#122:  qual è?
+
+
+<lp>
+
+
+p1#123:  allora<aa> io c'ho questa bandierina triangolare , 
+         e sicuramente è questa la differenza , che sarà ribaltata rispetto
+         a questa <inspiration> #<p2#124> io ce l'ho# che / <vocal> sulla punta che 
+         da sulla destra e tu ce l'avrai a sinistra
+
+
+p2#124:  #<p1#123> <vocal> <eh># <P> io sì a sinistra ce l'ho
+
+
+p1#125:  <ah> <unclear> e questa è una è una è una #<p2#126> differenza 
+         <vocal> l+ ma si de+#
+
+
+p2#126:  #<p1#125> <NOISE> va bene <eeh> solo questa# c'è {<laugh> vero ?}
+
+
+p1#127:  <vocal> <inspiration> #<p2#128> si deve# appuntare da <unclear> 
+         no si deve #<p2#128> parlare#
+
+
+p2#128:  #<p1#127> {[whispering] no}# <P> #<p1#127> segnalo# con una croce 
+         <sp> con una / con un<nn> per <inspiration> #<p1#129> allora 
+         <eeh># <vocal> stavamo #<p1#129> vedendo# quest+ #<p1#129> <sp> salvata+#
+
+
+p1#129:  #<p2#128> <ah># <sp> #<p2#128> <breath># <sp> #<p2#128> 
+         <ah> sicuramente# {[screaming] allora} <mh> <vocal> capiamo #<p2#130> 
+         qual è la logica , che vediamo anche questo#
+
+
+p2#130:  #<p1#129> <inspiration> c'hai scritto Bi Pi uno<oo># 
+         <sp> #<p1#131> sotto ?#
+
+
+p1#131:  #<p2#130> <vocal> <ah># quello sono<oo> le due<ee> le <vocal> le due cose , 
+         io ho Bi Pi due sicura+ <inspiration> #<p2#132> e tu<uu>#
+
+
+p2#132:  #<p1#131> allora questa# {<laugh> è una #<p1#133> differenza} <laugh>#
+
+
+p1#133:  #<p2#132> <laugh># <inspiration> senti Massimo #<p2#134> 
+         cadiamo<oo> invece<ee># <inspiration> il #<p2#134> becco 
+         <sp> il becco<oo> dell'anatra del<ll># del<ll>
+         #<p2#134> salvagente , tu# ce l'hai sulla sinistra ?
+
+
+p2#134:  #<p1#133> <vocal># <lp> #<p1#133> <vocal> <sp> 
+         <eh> <unclear> <eh> <sp> <eh># <lp> #<p1#133> sì# <lp> sì
+
+
+<lp>
+
+
+p1#135:  {<laugh> come sì ?} <laugh>
+
+
+<sp>
+
+
+p2#136:  sì sulla sinistra
+
+
+<sp>
+
+
+p1#137:  <ah> sì <vocal> <eeh> che ha due<ee> <sp> 
+         <eh?>  <sp> allora <breath> {<laugh> diceva+} <inspiration> <laugh> <inspiration> 
+         <sp> <tongue-click> <unclear> <lp> #<p2#138> aiutami#
+
+
+p2#138:  #<p1#137> cioé praticamente# il<ll> #<p1#139> <ehm> 
+         {[whispering] <unclear>}#
+
+
+p1#139:  #<p2#138> il becco# è<ee> fatto da cioè è <mh> <tongue-click> 
+
+
+<lp>
+
+
+p2#140:  cioé guarda verso<oo> verso l'esterno quest'anatra #<p1#141> 
+         <lp> <vocal> guarda verso<oo> verso il muro che abbi+ che io ho sulla 
+         sinistra <breath>#
+
+
+p1#141:  #<p2#140> <laugh> <inspiration> <laugh> <sp> <laugh> 
+         {<laugh> i potenti# effetti della prospettiva sono , 
+         <inspiration> allora quello che ti volevo dire è
+         questo} <inspiration> , capiamo un'altra cosa l+ 
+         <ehm> <vocal> {[whispering] <eeh>} la nuvola alt questa è 
+         una è una è una differenza l'uovo
+
+
+
+<sp>
+
+
+p2#142:  <mh>
+
+
+p1#143:  <inspiration> ha<aa> diciamo / è rivolto ca+ a destra o a sinistra ?
+
+
+<lp>
+
+
+p2#144:  l'inclinazione è<ee> verso<oo> destra
+
+
+<sp> <NOISE>
+
+
+p1#145:  verso destra allora è lo stesso <sp> <inspiration> e il 
+         bambino sta guardando #<p2#146> in basso<oo>#
+
+
+p2#146:  #<p1#145> sì# <vocal> a destra <sp> <tongue-click> <aa>alle spalle 
+         #<p1#147> diciamo#
+
+
+p1#147:  #<p2#146> {[whispering] <vocal> sì}# <inspiration>
+
+
+<lp> <NOISE>
+
+
+p2#148:  <inspiration> tutti questi segnali delle onde ? <sp> {[whispering] boh}
+
+
+p1#149:  <vocal> e vabbè va<aa> <sp> #<p2#150> valla# a trovare 
+         la<aa> la #<p2#150> differenza#
+
+
+p2#150:  #<p1#149> <unclear># <lp> #<p1#149> <inspiration> {[whispering] que+}# 
+         c'è una<aa> #<p1#151> specie#
+
+
+p1#151:  #<p2#150> si accettano<oo># #<p2#152> suggerime+#
+
+
+p2#152:  #<p1#151> c'è una conchiglia# <unclear> sembra , sembrerebbe 
+         con tre<ee> asticine no ? <lp> sulla destra
+
+
+<lp>
+
+
+p1#153:  c'è una conchiglia #<p2#154> {<laugh> c+ <unclear>} <inspiration># <vocal>
+
+
+p2#154:  #<p1#153> <vocal> sopra l'uovo# <sp> sopra l'uovo ce l'hai<ii> 
+         una specie di<ii> ?
+
+
+<lp>
+
+
+p1#155:  <nn>no
+
+
+<sp>
+
+
+p2#156:  no ? <lp> allora questa è una #<p1#157> differenza#
+
+
+p1#157:  #<p2#156> no<oo># sicuramente <unclear> <vocal> tu vedi una 
+         cosa io un'altra , <unclear> non ho capito c'è una #<p2#158> 
+         conchiglia do+ ?#
+
+
+p2#158:  #<p1#157> sopra# l'uovo <sp> <vocal> c'è una specie di<ii> 
+         <sp> forse non so se è un'onda non<nn> credo
+
+
+<sp>
+
+
+
+p1#159:  ma se uno trova una differenza sola <eeh> diciamo 
+         nel test come viene <vocal> classificato sotto+ sottosviluppato 
+         no vero ? <sp> <inspiration> vediamo di<ii> di trovarne 
+         un'altra #<p2#160> Massimo#
+
+
+p2#160:  #<p1#159> ce ne sono# parecchie , quante ce ne sono ? 
+         #<p1#161> <NOISE>#
+
+
+p1#161:  #<p2#160> ce ne saranno# <breath> <inspiration> <eeh> <breath> <vocal>
+         se+ <sp> sei o otto boh 
+       
+
+
+<lp>
+
+
+p2#162:  <vocal> la barca com'è rivo+ , cioé quella<aa> / la prua 
+         com'è ? #<p1#163> verso , <eh>#
+
+
+p1#163:  #<p2#162> {[screaming] <ah!> la punta} della# barca è verso sinistra
+
+
+<lp>
+
+
+p2#164: verso il bambino ?
+
+
+<sp>
+
+
+p1#165:  sì
+
+
+<lp>
+
+
+p2#166:  {[whispering] e uguale dovrebbe essere qua}
+
+
+<lp>
+
+
+p1#167:  <vocal> {[whispering] quella mia è più giusta #<p2#168> <inspiration> 
+         <eeh>} <breath>#
+
+
+p2#168:  #<p1#167> <vocal> <inspiration> sotto ci sono delle# liniette 
+         sotto il salvagente <lp> accanto a<aa> un<nn> <inspiration> 
+         #<p1#169> a un cerchio# <lp> nero
+
+
+p1#169:  #<p2#168> <inspiration> {[whispering] <vocal>}# <P> sì tre sono
+
+
+<sp>
+
+
+p2#170:  {[whispering] sono tre} <inspiration> ed a #<p1#171> sinistra ne ha+#
+
+
+p1#171:  #<p2#170> {[screaming] <vocal> la mano} del# bambino che tiene il salvagente è
+         attaccata quasi alla gamba ?
+
+
+p2#172:  <ss>sì <lp> <inspiration> <sp> invece <sp> dall'altra parte di 
+         questa macchia nera ce n'è un'altra , una sola vero ?
+
+
+<lp>
+
+
+p1#173:  boh
+
+
+<lp>
+
+
+p2#174:  dove ci sono tre<ee> liniette , dall'altra parte <sp> ce n'è 
+         un'al+ una ?
+
+
+<lp>
+
+
+p1#175:  <breath> #<p2#176> <sp> ti ricordi che a scuola 
+         copiavamo ? vediamo se si può fare qualcosa ?#
+
+
+p2#176:  #<p1#175> ci saranno<oo> sicuramente diff+ differenz+ <inspiration> 
+         ci saranno differenze# di posizione sicuro <sp> <inspiration> 
+         <vocal> #<p1#177> <sp> c'ha<aa> un tatuaggio# nel #<p1#177> 
+         braccio <sp> <breath> <sp> <vocal>#
+
+
+p1#177:  #<p2#176> <inspiration> <breath> <inspiration># <sp> #<p2#176> 
+         <laugh> <inspiration> <breath># <sp> cosa segnala ? <sp> <tongue-click>
+
+
+<lp>
+
+
+p2#178:  <vocal> ce l'hai un #<p1#179> puntino sotto<oo># il naso ?
+
+
+p1#179:  #<p2#178> <tongue-click># <lp> no
+
+
+<lp>
+
+
+p2#180:  no ? <sp> e questa è una differenza
+
+
+<lp>
+
+
+p1#181:  quella sarà una macchia della<aa> <sp> {[whispering] della <sp> della 
+         #<p2#182> fotocopiatrice}#
+
+
+p2#182:  #<p1#181> sì# {[whispering] della fotocopiatrice <sp> #<p1#183> 
+         la ma+}#
+
+
+p1#183:  #<p2#182> <inspiration> Massimo# io non ne trovo più differenze
+
+
+p2#184:  <inspiration> <lp> il becco è a punta<aa> ?
+
+
+<lp>
+
+
+p1#185:  <nn>no a <vocal> punta <sp> #<p2#186> {[whispering] a punta# no}
+
+
+p2#186:  #<p1#185> {[whispering] e}# <sp> e questa è un'altra differenza 
+         ce l'hai arrotondato ?
+
+
+<sp>
+
+
+p1#187:  sì
+
+
+<sp>
+
+
+p2#188:  {[whispering] vabbè} <NOISE>
+
+
+p1#189:  tu a punta ce l'hai ?
+
+
+<sp>
+
+
+p2#190:  {<NOISE> sì} 
+
+
+<sp>
+
+
+p1#191:  {[whispering] e me lo immaginavo che tu ce lo avevi a punta il becco}
+
+
+<lp>
+
+
+p2#192:  {[whispering] poi non lo so}
+
+
+

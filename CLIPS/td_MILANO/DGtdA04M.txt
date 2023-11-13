@@ -1,0 +1,1005 @@
+TEXT_inf.
+
+MAT:            td
+MAP:            A
+TRM:
+Ndl:            04
+Ntr:          
+Nls:
+REG:            M
+
+
+SPEAKERS_inf.
+
+INp1:         G. P., M, 19, Milano, spontaneo, fluente
+INp2:         F. D.C., M, 21, Milano, spontaneo, fluente
+
+
+RECORDING_inf.
+
+TYP:          DAT
+LOC:          Milano/aula universitaria
+DAT:          29/11/00            
+DUR:          12.16,419
+CON:          medie
+
+
+TRANSCRIPTION_inf.
+
+DAT:          10/11/02
+CMT:          
+Nst:          311
+
+
+
+p1#1:  Io sono Giovani sono Pi uno
+
+
+p2#2:  Francesco Pi due <breath>
+
+
+p1#3:  #<p2#4> dunque#
+
+
+p2#4:  #<p1#3> via# <breath> <sp> allora
+
+
+p1#5:  come facciamo
+
+
+p2#6:  c'è<ee> allora tu va be' la vignetta più o meno sarà uguale quindi c'è un
+            tipo che sta<aa> c'ha in mano una radio , #<p1#7> no ? una specie# di televisione
+            #<p1#7> portatile#
+
+
+p1#7:  #<p2#6> sì# <lp> #p2#6> sì# <sp> sì
+
+
+p2#8:  ecco c'è dentro tipo un cagnolino <sp> no ?
+
+
+ 
+p1#9:  #<p2#10> <eeh> no# a me c'è <sp> #<p2#10> as+  <sp> beh insomma# <sp>  <inspiration> <sp> non so perché potrebbe anche essere
+            un #<p2#10> cagnolino a me# 
+
+
+p2#10:  #<p1#9> no# <lp> #<p1#9> ec+ quello è una d+# <lp> #<p1#9> sì una f+# <breath> <sp> #<p1#11> t+#
+
+ 
+p1#11:  #<p2#10> a me# sembrava una<aa> signora persona <laugh>
+
+
+p2#12:  <ah> una persona questo qui mi sembrava un cane <inspiration> #<G#13> c'ha le orecchie# e il nasone         
+
+
+p1#13:  #<p2#12> <laugh> <inspiration># <lp> que+ #<p2#14> quella la#   
+
+
+p2#14:  #<p1#13> vabò# #<p1#15> dai#
+
+
+p1#15:  #<p2#14> <ah># <sp> <ah> sì hai ragione io pensavo fosse la bocca #<p2#16> {<laugh> il nasone} vabè niente#
+
+
+p2#16:  #<p1#15> no {<NOISE> più probabilmente}# una persona <sp> <laugh> <inpiration> <sp>          è <sp> è la bocca sì <inpiration> allora <sp> e niente e l'antenna ce l'ha la                radiolina ?
+"probabilmente" è ipoarticolato
+
+
+p1#17:  <laugh> <lp> <tongue-click> sì allora c'ha<aa> due  antenne
+
+
+p2#18:  ha due antenne <sp> ecco <sp> io ce n'ho una #<p1#19> sola# 
+
+
+p1#19:  #<p2#18> ce# ne ha una esattamente dritta
+
+
+p2#20:  vabè quella mi sa che è una differenza segnamola<aa> no non penso che sia 
+              più<uu> 
+
+
+<lp> 
+
+
+p1#21:  <eeh> non #<p2#22> so perché#
+
+
+p2#22:  #<p1#21> come le# <sp> come le segnali le differenze ?
+
+
+<lp>
+
+
+p1#23:  <eeh> <sp> <eeh> si fa una #<p2#24> croce si farà#
+
+file disturbato 
+
+
+p2#24:  #<p1#23> vabè <sp> okay# 
+
+
+p1#25:  {<NOISE> come} si #<p2#26> dice#
+
+
+p2#26:  #<p1#25> ne hai uno a destra e uno a sinistra , tu<uu> ?#
+
+
+p1#27:  no , io ne ho una esattamente dritta sopra 
+
+
+p2#28:  sì
+
+
+p1#29:  e ne ho una invece <sp> a sinistra cioe come <sp> a entrare dentro il foglio <sp> <inspiration> cioé <lp> in secondo piano <lp>
+              non so com'è / aspe+ scusa ho detto una <inspiration> <ehm> <tongue-click> sullo spigolo che tu non vedi sarebbe 
+
+
+p2#30:  sì 
+
+
+p1#31:  okay <sp> <tongue-click> li ce n'è una 
+
+
+p2#32:  <ah> ho capito <sp> <inspiration> vabo <lp> poi il <sp> tipo / c'è una statua con un tipo a cavallo , no ?
+
+
+p1#33:  sì
+
+
+p2#34:  c'ha la spada ?
+
+
+p1#35:  sì 
+
+
+p2#36:  {<NOISE> sì}
+
+
+p1#37:  c'ha la spada <sp> <eeh> a cavallo niente
+
+
+p2#38:  ti+ / stivali <sp> cappe+ #<p1#39> cappellino#
+
+
+p1#39:  #<p2#38> #<p2#40> cappellino<oo>##
+
+
+p2#40:  #<p1#39> berrettino# con la #<p1#41> visiera# 
+
+
+p1#41:  #<p2#40> con visiera#  , #<p2#42> sì#
+
+
+p2#42:  #<p1#41> il cavallo# c'ha le orecchie lo zoccolo #<p1#43> alzato#
+
+
+p1#43:  #<p2#42> lo#  zoccolo alzato <sp> #<p2#44> zoccolo<oo>#
+
+
+p2#44:  #<p1#43> sì# <lp> #<p1#45> e c'ha#
+
+
+p1#45:  #<p2#44> sì è lo #<p2#46> stesso# 
+
+
+p2#46:  #<p1#45> c'ha uno zoccolo# a terra uno zoccolo #<p1#47> alzato#
+
+
+p1#47:  #<p2#46> sì sì sì# sì 
+
+
+p2#48:  okay 
+
+
+p1#49:  e ha<aa> una specie di <sp> il cavallo ha  #<p2#50> una specie# 
+        
+
+
+p2#50:  #<p1#49> c'ha occhi# per #<p1#51> caso<oo>#
+
+
+p1#51:  #<p2#50> il# #<p2#52> cavallo ?#
+
+
+p2#52:  #<p1#51> <eh!>#
+
+
+p1#53:  né #<p2#54> né il cavallo né l'uomo#
+
+
+p2#54:  #<p1#53> na+ <vocal> narici#
+
+
+p1#55:  no no #<p2#56> nulla#
+
+
+p2#56:  #<p1#55> niente# #<p1#57> niente#
+
+
+p1#57:  #<p2#56> assolutamente# no<inspiration> c'ha soltanto una cosa il 
+             cavallo che è una specie di striscia a metà<aa> del busto <breath>
+
+"assolutamente" è ipoarticolato
+
+
+p2#58:  sotto la sella #<p1#59> dici ?#
+
+
+p1#59:  #<p2#58> <vocal># #<p2#60> sì#
+
+
+p2#60:  #<p1#59> ecco# ce l'ho anch'io
+
+
+p1#61:  okay
+
+
+p2#62:  <eeh> il tetto della casa ?
+
+
+p1#63:  il tetto della casa e #<p2#64> du+ <vocal>#
+
+
+p2#64:  #<p1#63> un'antenna# e due #<p1#65> caminetti tipo#
+
+
+p1#65:  #<p2#64> un'antenna# con due sbarre #<p2#66> orizzontali#
+
+
+p2#66:  #<p1#65> sì# <sp> #<p1#67> e due caminetti ?#
+
+
+p1#67:  #<p2#66> sì <sp> <inspiration># due caminetti che sono<oo> 
+              #<p2#68> <NOISE> più o m+#
+
+
+p2#68:  #<p1#67> uno vicino# #<p1#69> all'altro#
+
+
+p1#69:  #<p2#68> uno vicino# all'altro quello di sinistra leggermente più 
+              #<p2#70> basso#   
+
+
+p2#70:  #<p1#69> sì# sì va be' 
+
+
+p1#71:  e sono ri+ / triangolari #<p2#72> i cosi#
+
+
+p2#72:  #<p1#71> okay sì# sì
+
+
+p1#73:  <tongue-click> quanti <sp> tasti ha la<aa> radio ?
+
+
+p2#74:  {<NOISE> ce} ne ha otto neri <vocal> <sp> <NOISE> messi sotto il 
+        #<p1#75> monitor#
+
+
+p1#75:  #<p2#74> sì#
+
+
+p2#76:  poi uno un po' più grande a sinistra del pollice
+
+
+p1#77:  bianco
+
+
+p2#78:  sì e due<ee> #<p1#79> bianchi sotto <inspiration>#  
+
+
+p1#79:  #<p2#78> sotto bianchi sì#
+
+
+p2#80:  {<NOISE> poi}
+
+
+p1#81:  dunque il #<p2#82> cane <breath>#
+
+
+p2#82: #<p1#81> il cane ?#
+
+
+p1#83:  dove c'è il guinzaglio
+
+
+p2#84:  sì <sp> c'ha il guinzaglio
+
+
+p1#85:  c'ha il nasone #<p2#86> <laugh>#
+
+
+p2#86:  #<p1#85> sì#
+
+
+p1#87:  poi sotto ha dei #<p2#88> puntini#
+
+
+p2#88:  #<p1#87> <eeh> è seduto# il il cane / #<p1#89> cioé è a terra# il #<p1#89> 
+             cane no ?#
+
+
+p1#89:  #<p2#88> sì# <sp> #<p2#88> è a terra# <sp> c'ha la #<p2#90> coda# 
+
+
+p2#90:  #<p1#89> c'ha dei# pun+ <vocal> ci son dei puntini in basso a destra ?
+
+
+p1#91:  #<p2#92> sì su+#
+
+
+p2#92:  #<p1#91> quanti# sono ?
+
+
+p1#93:  sul na+ <sp> <ah> dici in basso a destra sul prato o sul naso del cane ?       
+
+
+p2#94:  no , quelli sono {<NOISE> tipo} i baffi #<p1#95> e<ee> sono<oo># sette puntini
+
+
+p1#95:  #<p2#94> <eh> va be i baffi# <lp> sì <sp> e in basso a destra ci sono dei #<p2#96> puntini , si#
+
+
+p2#96:  #<p1#95> sì#
+
+
+p1#97:  #<p2#98> c'è l'erba# intorno alla statua ?
+
+
+p2#98:  #<p1#97> s+# <lp> sì c'è l'erba intorno alla statua che fa tipo<oo>
+
+
+p1#99:  un #<p2#100> giro#
+
+
+p2#100:  #<p1#99> una# striscia circolare , #<p1#101> sì#
+
+fino a 100 corretta e chiusa
+
+
+p1#101:  #<p2#100> sì# <lp> #<p2#102> dunque#
+
+
+p2#102:  #<p1#101> quali# so' ste {<NOISE> differenze ?} <breath>
+
+
+p1#103:  la macchina ? <breath>
+
+
+p2#104:  boh la macchina <lp> #<p1#105> a posto#
+
+
+p1#105:  #<p2#104> <vocal> c'ha# <sp> c'ha lo specchietto
+
+
+p2#106:  specchietto
+
+
+p1#107:  entrambi gli specchietti 
+
+
+p2#108:  #<p1#109> en<nn>+ <vocal> si+ <vocal> <ah> a# sinistra / sia a sinistra che a          destra lo #<p1#109> specchietto<oo> retrovisore#
+
+
+p1#109:  #<p2#108> sia quello la_terale# <inspiration> <lp> #<p2#108> no , c'ha lo          specchietto# quello dentro la macchina e quello fuori
+
+la parola "laterale" è interrotta e il parlante produce l'occlusiva dentale sia prima che dopo l'interruzzione
+
+
+p2#110:  <ah> c'è anche dentro la macchina ? <sp> #<p1#111> ecco#
+
+
+p1#111:  #<p2#110> c'è# anche #<p2#112> quello<oo>#
+
+
+p2#112:  #<p1#111> io non ce# l'ho
+
+
+p1#113:  okay
+
+
+p2#114:  quello {<NOISE> sopra} al guidatore dici ?
+
+
+p1#115:  sì <lp> #<p2#116> quello inte+#
+
+
+p2#116:  #<p1#115> e c'è anche# quello a destra di specchietto ?
+
+
+p1#117:  e no+ non si vede , no
+
+
+p2#118:  no <sp> niente
+
+
+p1#119:  #<p2#120> <eeh>#
+
+
+p2#120:  #<p1#119> i fari# come #<p1#121> sono ?#
+
+
+p1#121:  #<p2#120> i# fari sono #<p2#122> rettangolari#
+
+
+p2#122:  #<p1#121> sono ugu+ / rettangolari# vuoti ?
+
+
+p1#123:  sì
+
+
+p2#124:  il<ll> {<NOISE> parafango} ce l'ha ? <lp> #<p1#125> il / sì il il          paraurti#
+
+
+p1#125:  #<p2#124> in che se+ <sp> il paraurti# sì
+
+
+p2#126:  sì <lp> #<p1#127> le gomme# come so+ nere , no
+
+
+p1#127:  poi <lp> le gomme sono bianche
+
+
+p2#128:  sono bianche con un cerchio #<p1#129> bianco de+ <inspiration>#
+
+
+p1#129:  #<p2#128> con un cerchio# #<p2#130> dentro#
+
+
+p2#130:  #<p1#129> le finestre# della casa sono uno due tre quattro cinque sei sette          {[whispering]]otto
+
+
+p1#131:  aspetta quattro e quattro otto si che sono messe <inspiration> cioé si vedono          <NOISE> cinque nella riga verti+ <eh>
+
+
+p2#132:  so+ <lp> sì
+
+
+p1#133:  aspetta cinque <sp> e tre o+ / e due e poi una
+
+
+p2#134:  cinque due una , sì
+
+
+p1#135:  poi dunque 
+
+
+p2#136:  il tipo ?
+
+
+p2#137:  va be' la f+ <sp> la <sp> faccia del tizio <lp> c'ha una specie di angolo dietro
+
+
+p2#138:  sì
+
+
+p1#139:  poi vabbé la bocca il naso <sp> #<p1#140> gli occhi#
+
+
+p2#140:  #<p1#139> capelli ?#
+
+
+p1#141:  capelli neri
+
+
+p2#142:  neri , orecchia <sp> #<p2#142> <eh>#
+
+
+p1#143:  #<p2#142> orecchia# abbastanza {<laugh> grossa} <laugh>          <inspiration> <sp> <eeh> <sp> le scarpe ? <breath>
+
+
+p2#144:  le scarpe <ah> ecco le scarpe sono <sp> <inspiration> <sp> boh          <sp> scarpe basse 
+
+
+p1#145:  #<p2#146> stringhe ?#
+
+
+p2#146:  #<p1#145> con s+# / c'ha le stringhe , sì
+
+
+p1#147:  sì <sp> <inspiration> <sp> e ta+ #<p2#148> con ta+#
+
+
+p2#148:  #<p1#147> bianche ?#
+
+
+p1#149:  con un cert+ un tacco<oo> piccolo però #<p2#150> <unclear>#
+
+
+p2#150:  #<p1#149> sì#
+
+
+p1#151:  tacchettino <sp> <inspiration> <sp> poi <breath> <sp> vediamo un po'
+
+
+p2#152:  le orecchie del cane com'è che sono ? <sp> <tongue-click> <sp>#<p1#153> la+#
+
+
+p1#153:  #<p2#152> dritte#
+
+
+p2#154:  la coda ?
+
+
+p1#155:  pure
+
+
+p2#156:  dritta ?
+
+
+p1#157:  sì
+
+
+p2#158:  ecco la mia è un po'<oo> un po' storta
+
+
+p1#159:  <vocal> <sp> cioè <sp> dritta rispetto al cane     
+
+
+p2#160:  e la mia fa u+ / è un <sp> a ad <vocal> <sp> uncino #<p1#161> tipo#
+
+
+p1#161:  #<p2160> <ah> va be'# allora sono diverse <sp> <inspiration> <sp> allora <breath> <sp> dunque la coda <breath> <sp> <tongue-click> <inspiration> poi <breath>
+
+
+p2#162:  l'albero ? <lp> c'ha dei frutti , no
+
+
+p1#163:  no <breath> <lp> l'albero<oo> <sp> ha tre piani non so come dire ha tre<ee> <lp> tre fronde <lp> capito ? <sp> tre strati #<p2#164> di foglie#
+
+
+p2#164:  #<p1#163> sì ma è# <sp> più o meno è una sfera no il
+
+
+p1#165:  sì #<p2#166> più o meno sì#
+
+
+p2#166:  #<p1#165> <unclear> di una sfera di foglie# <sp> #<p1#167> con# tre
+
+
+p1#167:  #<p2#166> sì# sì <lp> tre #<p2#168> fronde tre# così <sp> sì è una sfera in cui #<p2#168> son tre pia+# come tre cose
+
+
+p2#168:  #<p1#167> s+# <P> #<p1#167> sì va be'# <sp> <inspiration> <sp> okay
+
+
+p1#169:  poi sotto la statua c'hai un rettangolo vuoto è vero ?
+
+
+p2#170:  sì
+
+
+p1#171:  okay
+
+
+p2#172:  cioé sul n+ / la / sulla base della #<p1#173> statua dici#
+
+
+p1#173:  #<p2#172> sì# <sp> qua+ / dove ci sarebbe tipo <breath> <sp> di solito la             scritta quelle robe la <sp> <inspieration> <sp> #<p2#174> po+#
+
+
+p2#174:  #<p1#173> po+# <sp> <NOISE> <inspiration> <tongue-click> <sp> la mano del tipo com'è che è messa
+
+
+p1#175:  sulla radio ?
+
+
+p2#176:  sulla<aa> <sp> pollice sul<ll> sul<ll> davanti
+
+
+p1#177:  pollice sul #<p2#178> davanti e tre dita#
+
+
+p2#178:  #<p1#177> {[whispering] e} <sp> e tipo tre dita# #<p1#179> dietro#
+
+
+p1#179:  #<p2#178> sul# dietro sì 
+
+
+p2#180:  le maniche c'hanno qualcosa<aa> di particolare
+
+
+p1#181:  {<NOISE> no} , nulla
+
+
+p2#182:  niente no son #<p1#183> vuote#
+
+
+p1#183:  #<p2#182> c'è la manica# della camicia che viene leggermente in fuori   
+
+
+p2#184:  sì , la manica della camicia in #<p1#185> fuori#
+
+
+p1#185:  #<p2#184> rispetto# a quella della giacca <sp> #<p2#186> l'unica cosa#
+
+
+p2#186:  #<p1#185> <ehm>#
+
+
+p1#187:  poi <breath> <lp> #<p2#188> <mh>#
+
+
+p2#188:  #<p1#187> <tongue-click> la panchina# <sp> a righe dietro
+
+
+p1#189:  sì <breath> <lp> <tongue-click> e<ee> niente poi
+
+
+p2#190:  #<p1#189> che è un <sp> ma è dritta# la panchina oppure è un po'            risvoltata all'infuori                     
+
+
+p1#191:  #<p2#190>è risvoltata# 
+
+
+p2#192:  <mh> <breath>
+
+
+p1#193:  è risvoltata poi c'è vediamo un po' <lp> {[whispering] <mh> <sp> <mh> <sp> <mh>}
+
+
+p2#194:  la la spada quant'è che è lunga del<ll> del tipo a cavallo
+
+
+p1#195:  è lunga quasi fino al bordo
+
+
+p2#196:  <mhmh> <sp> #<p1#197> anche la mia anche la mia#
+
+
+p1#197:  cioé #<p2#196> praticamente fino# al bordo , sì <inspiration> <sp> dunque             cos'è che non abbiamo ancora<aa> nominato <breath>          
+
+
+p2#198:  il collare ce l'ha il cane , sì
+
+
+p1#199:  sì <sp> tra l'altro gli manca un pezzettino <lp> cioé non so se<ee>              sia #<p2#200> una differenza#
+
+
+p2#200:  #<p1#199> sì , è un po' strano# <sp> non è
+
+
+p1#201:  cioé non non si congiunge #<p2#202> la testa col corpo#
+
+
+p2#202:  #<p1#201> esatto esatto#
+
+
+p1#203:  e lo stesso<oo> #<p2#204> il <sp> il tizio#
+
+
+p2#204:  #<p1#203> le gambe ce l'ha# accavallate i tipo , #<p1#205> sì#
+
+
+p1#205:  #<p2#204> sì# <sp> ce l'ha accavallate <sp> colla #<p2#206> destra              sopra la si+#
+
+
+p2#206:  #<p1#205> il guinzaglio# di che colore è ?
+
+
+p1#207:  #<p2#208> bianco#
+
+
+p2#208:  #<p1#207> bianco#
+
+
+p1#209:  <mh>
+
+
+p2#210:  <ehm> <breath> boh
+
+
+p1#211:  {[whispering] differenza e orientamento spaziale} <sp> <inspiraton> dunque            <sp> il basamento proprio quello più basso della statua ? <breath>
+
+
+p2#212:  sì <sp> è<ee> un / {<NOISE> tipo} un #<p1#213> trapezio<oo>#
+
+
+p1#213:  #<p2#212> <eh> sì# sì okay <lp> uguale
+
+
+p2#214:  la macchina com'è che è messa dietro la statua ? no+ normale
+
+
+p1#215:  è messa<aa> sì come se fosse parcheggiata tipo
+
+
+p2#216:  dietro la statua #<p1#217> che spunta <eeh># le spunta il muso
+
+
+p1#217:  #<p2#216> sì# <lp> <vocal> dal si+ / dal<ll> #<p2#218> dal<ll># <ehm> <breath> <sp>            dal finestrino davanti in poi #<p2#218> tipo#
+
+
+p2#218:  #<p1#217> fino# <P> #<p1#217> sì#
+
+
+p1#219:  però non ha il tetto <lp> cioé non si vede il tetto
+
+
+p2#220:  sì c'è una linea tipo che va+ arriva fino alla statua #<p1#221> dell'a+ /             del ca+ <sp> okay#
+
+
+p1#221:  #<p2#220> sì però non si# vede in tre #<p2#222> dimensioni tipo#
+
+
+p2#222:  #<p1#221> s+ / no <eh>#
+
+
+p1#223:  no <sp> dunque <sp> #<p2#224> il cavallo# di+ / hai detto che neanche te             c'hai nulla in faccia   
+
+
+p2#224:  #<p1#223> il mu+# <P> c'ha ? <sp> non c'ha niente dentro sì <sp>                 #<p1#225> solo una linea<aa>#
+
+
+p1#225:  #<p2#224> cioé <sp> c'è solo<oo># il #<p2#226> contorno#
+
+
+p2#226:  #<p1#225> è solo la sagoma# esatto
+
+
+p1#227:  {[whispering] esatto allora niente}
+
+allora è ipoarticolato
+
+
+p2#228:  anche del {<NOISE> tipo<oo> più} o meno
+
+
+p1#229:  sì sì #<p2#230> sì#
+
+
+p2#230:  #<p1#229> {<NOISE> la} ce+# / la {<NOISE> faccia} del tipo #<p1#231> non ha#
+
+
+p1#231:  #<p2#230> non# ha #<p2#232> nulla#  
+
+
+p2#232:  #<p1#231> non# ha niente dentro e c'ha tipo un cappellino <sp>                   <inspiration> <sp> #<p1#233> sembra# un {<NOISE> cappellino} da baseball {[whispering] tipo}
+
+
+p1#233:  #<p2#232> sì# <lp> sì con le #<p2#234> orecchie#
+
+
+p2#234:  #<p1#233> sarà li# <sp> <mh?>
+
+
+p1#235:  quello che copre le #<p2#236> orecchie#
+
+
+p2#236:  #<p1#235> esatto#
+
+
+p1#237:  <NOISE> {[whispering] okay} <sp> <NOISE> <sp> {[whispering] <eh> son dure}          #<p2#238> <breath>#
+
+
+p2#238:  #<p1#237> la sella# c'è
+
+
+p1#239:  la #<p2#240> sella c'è# 
+
+
+p2#240:  #<p1#239>la spada# è uguale <sp> <inspiration> <sp> il tetto della casa  uguale
+
+
+p1#241:  cosa può manca+ / il tronco dell'albero ?
+
+
+p2#242:  <ah> il tronco dell'albero <sp> <eh> non è esattamente <ehm> <sp> <vocal> <sp> <ll>le linee  non sono<oo> parallele 
+
+
+p1#243:  no si restringono #<p2#244> verso <sp> i tre quarti verso l'alto#
+
+
+p2#244:  #<p1#245> esatto <sp> si restringono verso la testa del# tipo
+
+
+p1#245:  esatto esattamente sì
+
+
+p2#246:  la bocca del tipo com'è ? dritta
+
+
+p1#247:  dritta , sì
+
+
+p2#248:  il mento #<p1#249> sporgente#
+
+
+p1#249:  #<p2#248> mento# molto #<p2#250> sporgente#
+
+
+p2#250:  #<p1#249> il <sp> nasone#
+
+
+p1#251:  poi <sp> <ehm> <sp> <tongue-click> <ah> però aspetta forse quella che prima t'ho detto          che era un'antenna mi son sbagliato
+
+
+p2#252:  <mh> <sp> <tongue-click> <sp> cos'è che #<p1#253> è#
+
+
+p1#253:  #<p2#252> {[laugh] perché# mi sono accorto} adesso <inspiration> che                      sembra tipo l'apertura della radio
+
+
+p2#254:  è tipo / la radio è fatta tipo / sembra un #<p1#255> libro quasi è un                         libro# con<nn>
+
+
+p1#255:  #<p2#254> esatto# <sp> e allora ho sbagliato a dirti <sp> non avevo                         visto <sp> cioé ce l'hai uguale anche te <eh> <sp> sembra un #<p2#256>
+         libro#
+
+"avevo" è ipoarticolato
+
+p2#256:  #<p1#255> no# <sp> sì #<p1#257> esatto#
+
+
+p1#257:  #<p2#256> si# apre da tutte e due le #<p2#258> parti#
+
+
+p2#258:  #<p1#257> sì# sì #<p1#259> sì sì#
+
+
+p1#259:  #<p2#258> e allora# è uguale alla mia non #<p2#260> era un'antenna#                         quella roba li <sp> mi sembrava <sp> ho sbagliato <sp> va be'
+
+
+p2#260:  #<p1#259> è uguale# <P> il libro ? <sp> o è spesso un po' ?
+
+
+p1#261:  sì
+
+
+p2#262:  l'antenna com'è fatta è fatta da<aa> da tre #<p1#263> parti , no ?#
+
+
+p1#263:  #<p2#262> tre co+# / tre #<p2#264> parti con u+#
+
+
+p2#264:  #<p1#263> una una# più sottile dell'altra
+
+
+p1#265:  sì , ecco in f+ / in cima <sp> c'ha il<ll> c'ha il tondino
+
+
+p2#266:  <ah!> c'ha il tondino io non ce l'ho
+
+
+p1#267:  {[whispering] è perfetto <inspiration> <tongue-click> <sp> mamma mia <breath> <sp>          abbiam rimediato subito <eh> <laugh>}
+
+
+p2#268:  #<p1#267> <mmh>#
+
+
+p1#269:  #<p2#268> {[laugh] dunque# <lp> <NOISE> <sp> cos'è <breath> <sp> che<ee> volevo          dire <lp> <breath> <sp> l'orecchio c'ha dentro anche<ee> disegnato in #<p2#270>          nero<oo>#
+
+
+p2#270:  #<p1#269> sì#
+
+
+p1#271:  tipo #<p2#272> l'interno ?#
+
+
+p2#272:  #<p1#271> sì# <lp> <ehm> la macchina<aa> vediamo un po' la macchina              <sp> <unclear> <sp> <inspiration> <sp> #<p1#273> la macchina# c'è <eh>
+
+
+p1#273:  #<p2#272> la macchina# <lp> #<p2#274> scusa#
+
+
+p2#274:  #<p1#273> secondo me# la statua c'ha qualcosa <sp> <inspiration> il cane l'abbiam            trovato la radio<oo> <sp> pure la la macchina <sp> pure <sp> <inspiration> <vocal>           <sp> la casa tipo il / la la statua #<p1#275> così non mi convincono#  
+
+
+p1#275:  #<p2#274> <eh> la casa deve aver qualcosa# <sp> <inspiration> <sp> anche la tua              {<NOISE> casa} c'ha tipo un<nn> una specie di<ii> <breath> <sp> cioè a metà del              muro <sp> più a destra ?
+
+p2#276:  sì
+
+
+p1#277:  c'è una specie di sporgenza qua <sp> che #<p2#278> non capisco# cosa sia
+
+
+p2#278:  #<p1#277> a metà# <lp> a metà del muro ma <vocal> s+ <sp> nel mu+ / sul muro della          casa ?
+
+
+p1#279:  sì ma leggera proprio <lp> #<p2#280> cioé# è come se fosse disegnata un           po' male
+
+
+p2#280:  #<p1#279> <clear-troath># <lp> beh ma è d+ <vocal> la linea è dritta , no ?
+
+
+p1#281:  #<p2#280> più o meno#
+
+
+p2#282:  #<p1#281> scende g+# <sp> dritta giù fino alla macchina
+
+
+p1#283:  quasi dritta
+
+
+p2#284:  vabbè <eeh> <lp> magari è leggermente
+
+
+p1#285:  sì cioè è come se fosse un po' #<p2#286> più ricalcata#    
+
+
+p2#286:  #<p1#285> c'è una sporgenza<aa># evid+ è evi+ è evidente la sporgenza           o<oo>
+
+
+p1#287:  cioè è <vocal> è come se fosse un po' più ricalcata non è dritta la              linea
+
+
+p2#288:  <tongue-click> quant'è spessa la linea ?
+
+
+p1#289:  diventa più spessa ed è <sp> ed è leggermente s+ <sp> proprio leggermente di un          millimetro spostata verso destra <inspiration> <sp> {[whispering] non so se sia          #<p2#290> una}#
+
+
+p2#290:  #<p1#289> verso# l'alto della casa
+
+
+p1#291:  no , verso verso destra nel senso verso il<ll> <sp> #<p2#292> verso# il cavallo #<p2#292> tipo#
+
+
+p2#292:  #<p1#291> verso# <sp> #<p1#291> verso# il cavallo
+
+
+p1#293:  boh non so se il / la tua scende proprio dritta #<p2#294> retta?#
+
+
+p2#294:  #<p1#293> beh# non è non è {<NOISE> proprio} dritta è <ehm> <sp> cioè è disegnata 
+         alla fine <sp> <NOISE> <sp> è come se fosse disegnata
+
+
+p1#295:  <vocal> <sp> <eh> non so qua c'è 'sta roba qui che non #<p2#296> capisco cosa sia#
+
+
+p2#296:  #<p1#295> un po' un po' imprecisa# però è dritta
+
+
+p1#297:  <mh> <sp> e non si inspessisce mai ?
+
+
+p2#298:  no , non si inspessisce
+
+
+p1#299:  boh qua beh io la segno <sp> #<p2#298> perché è# 
+
+
+p2#300:  #<p1#299> <eh> dai#
+
+
+p1#301:  è abbastanza evidente nel senso <inspiration> <tongue-click> poi / no la                    statua<aa> ci deve essere {[laugh] qualcosa} 
+
+
+p2#302:  la statua 
+
+
+p1#303:  #<p2#304> la <eeh> 
+
+
+p2#304:  #<p1#303> allora il tipo# ha una ba+ / un braccio sul<ll> <sp> sul                        collo del cavallo
+
+
+p1#305:  sì <sp> però non si vede la mano
+
+
+p2#306:  non si vede ?
+
+
+p1#307:  cioé #<p2#308> si vede# <sp> una / un pezzo di sta+ <sp> un pezzo di<ii> sella che
+         va verso il collo del cavallo
+
+
+p2#308:  #<p1#307> così# <P> <ah> è {<NOISE> quella} sì e <unclear> <sp> o è la mano o è il     
+         un pezzo di #<p1#309> sella {[whispering] boh non si sa# <inspiration> <unclear> ce l'abbiam tutti e due} <inspiration> <tongue-click> #<p1#309> gli stivali# come son neri                     per caso ?
+
+
+p1#309:  #<p2#308> <ah> si# <lp> #<p2#308> {[whispering] okay}# <lp> no no <sp> tutto bianco          <inspiration> gli stivali hanno le / lo #<p2#310> sperone#
+
+
+p2#310:  #<p1#309> <unclear># <lp> #<p1#309> lo zoccolo# alzato #<p1#311> ce l'ha il#          cavallo sì
+
+
+p1#311:  #<p2#310> <mh?># <sp> sì <lp> ve+ / gli zoccoli hanno forma di zoccolo 
+         <unclear>    
+
+
+
+
+
+
