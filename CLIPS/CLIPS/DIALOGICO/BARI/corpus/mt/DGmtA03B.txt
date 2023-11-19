@@ -1,0 +1,512 @@
+TEXT_inf.
+
+MAT:            mt
+MAP:            A
+TRM:
+Ndl:            03
+Ntr:		
+Nls:		
+REG:            B
+
+
+SPEAKERS_inf.
+
+INp1:		M.T. C., F, 25, Bari, spontaneo, fluente, G>F
+INp2:		G. D.R, M, 25, Bari, spontaneo, fluente, F>G
+
+
+RECORDING_inf.
+
+TYP:		DAT
+LOC:		Bari/Università
+DAT:		09/05/01
+DUR:		5.02,863
+CON:		parzialmente buone
+
+
+TRANSCRIPTION_inf.
+
+DAT:		20/11/01  
+CMT:		Bisogna ricordare che il p1, che corrisponde al p1 della scheda del dialogo, è registrato sul canale di sinistra (verde in alto su Goldwave); coerentemente il p2 è registrato sul canale di destra (rosso in basso su Goldwave).
+                La registrazione del parlante P1 è in buona parte saturata, per il p2 solo nella porzione finale; per il P2 si sentono tutte le respirazioni; in entrambi i canali si sente la voce dell'interlocutore.
+                Le respirazioni (ben udibili e ben visibili sul segnale) non sono state comunque riportate nella trascrizione, se non nelle porzioni all'interno del turno.
+Nst:		115
+
+
+
+
+p1G#1:  <tongue-click> <inspiration> allora Giuseppe <sp> devi partire / vedi 
+        dove sta la televisione ?
+
+
+p2F#2:  <breath> sì <breath>
+
+
+p1G#3:  <inspiration> a due centimetri <sp> dalla televisione metti una crocetta 
+        <sp> un po' più in alto<oo> rispetto<oo> all'altezza della #<F#4> 
+        televisione però appena appena# sopra
+
+
+p2F#4:  #<G#3> sopra <breath> <lp> #<G#5> sopra o ap+#
+
+
+p1G#5:  #<F#4> <inspiration> due centimetri# a sinistra <sp> della televisione
+
+
+<sp>
+
+
+p2F#56:  sopra o due centimetri a sinistra ? <breath>
+
+
+p1G#7:  no due centimetri , a sinistra della #<F#8> televisione , leggermente 
+        più sopra , fai una# crocetta
+
+
+p2F#8:  #<G#7> <mh> <breath> <lp>} <mh> <breath># <lp> sì #<G#9> <breath> <lp> 
+        sì <breath>#
+
+
+p1G#9:  #<F#8> partenza <sp> parti da# là <sp> <inspiration> poi vai <ehm> 
+        leggermen+ / attorno at+ / leggermente giù , seguendo attorno 
+        attorno<oo> la televisione
+
+
+p2F#10:  <mh> #<G#11> <breath>#
+
+
+p1G#11:  #<F#10> facendo una# specie di<ii> di #<F#12> curva <sp> infossata#
+
+
+p2F#12:  <mh> #<G#11> <breath># sì <breath>
+
+
+p1G#13:  <mh> <inspiration> poi quando<oo> sei andato attorno attorno alla 
+         televisione
+
+
+p2F#14:  #<G#13> <breath> <mh> #<G#15> <breath>#
+
+
+p1G#15:  #<F#14> <tongue-click> fai# un'altra curva in su<uu> che arriva fino 
+         all'altezza della torta più o meno
+
+
+<sp>
+
+
+p2F#16:  e deve<ee> andare in mezzo agli sci ? no <breath>
+
+
+p1G#17:  #<F#18> <eh?>#
+
+
+p2F#18:  #<G#17> va# sopra agli sci ?
+
+
+<sp>
+
+
+p1G#19:  agli sci ? a do'[dialect] stanno gli sci Giuse' <laugh> non ci stanno 
+         gli sci
+
+
+p2F#20:  come non ci sono gli sci <breath> <lp> quelli verdi <breath>
+
+
+<lp>
+
+
+p1G#21:  <ah> io non ce li ho gli sci verdi <laugh> allor+ / tu non c'hai una 
+         torta ?
+
+
+p2F#22:  sì c'è la torta #<G#23> però <breath>#
+
+
+p1G#23:  #<F#22> <inspiration> allora# Giuseppe devi segui+ / devi fare una<aa> 
+         <ehm> <tongue-click> una c+ una cunetta
+
+
+p2F#24:  <mh> #<G#25> <breath>#
+
+
+p1G#25:  #<F#24> all'altezza# della torta <sp> #<F#26> sopra#
+
+
+p2F#26:  #<G#25> <eh> ma a me in# mezzo stanno questi sci verdi #<G#27> quindi#
+
+
+p1G#27:  #<F#26> e vabbè vai sopra# agli sci
+
+
+p2F#28:  vado sopra agli #<G#29> sci ? vado sopra# la torta ? <breath>
+
+
+p1G#29:  #<F#28> sì<ii># <lp> no<oo> sopra alla torta <lp> <tongue-click> 
+         accanto alla torta #<F#30> fai <laugh> una curva# <sp> in su<uu>
+
+
+p2F#30:  #<G#29> accanto <breath> <lp> <mbè?># <lp> <mh>
+
+
+<sp>
+
+
+p1G#31:  e l'altezza deve essere quanto la torta
+
+
+p2F#32:  <mh> <breath>
+
+
+<sp>
+
+
+p1G#33:  <tongue-click> questa curva la devi fare a sinistra della torta
+
+
+<lp>
+
+
+p2F#34:  <eh> sì <breath>
+
+
+p1G#35:  <eh> <inspiration> poi , prosegui giù e vai intorno alla torta in giù 
+         #<F#36> però#
+
+
+p2F#36:  #<G#35> <mh># <breath>
+
+
+p1G#37:  <inspiration> e fai una specie di cerchio attorno alla #<F#38> torta#
+
+
+p2F#38:  #<G#37> <mh> <breath>#
+
+
+<lp>
+
+
+p1G#39:  l'hai #<F#40> fatto ?#
+
+
+p2F#40:  #<G#39> sì# <breath>
+
+
+p1G#41:  <eh> <inspiration> poi vai sopra alla curva #<F#42> e continua dritto# 
+         , fino all'altezza della #<F#42> televisione# <lp> vai così
+
+
+p2F#42:  #<G#41> <mh> <breath># <lp> #<G#41><breath># <lp> <mh> <breath>
+
+
+p1G#43:  capito ? <lp> <eh?>
+
+
+p2F#44:  <tongue-click> sì <breath>
+
+
+p1G#45:  ci sei ?
+
+
+p2F#46:  <mh> <breath>
+
+
+p1G#47:  <inspiration> poi adesso , c'hai la macchinina #<F#46> rossa ?#
+
+
+p2F#48:  #<G#45> <breath># <mh> <breath>
+
+
+p1G#49:  <inspiration> <tongue-click> allora fai una linea<aa> <ehm> obliqua<aa> 
+         verso sinistra
+
+
+p2F#50:  <breath> #<G#51> <mh> <breath>#
+
+
+p1G#51:  #<F#50> e vai attorno attorno# alla macchinina rossa
+
+
+p2F#52:  <mh> <breath>
+
+
+<lp>
+
+
+p1G#53:  sei arrivato sopra la #<F#54> cappotta della macchinina#
+
+
+p2F#54:  #<G#53> sì <breath>#
+
+
+p1G#55:  <inspiration> vai giù <sp> #<F#56> con una# linea obliqua<aa> #<F#56> 
+         verso<oo># destra
+
+
+p2F#56:  #<G#55> <mh># <lp> #<G#55> <breath># <mh>
+
+
+<lp>
+
+
+p1G#57:  e poi continua la linea obliqua fino a andare all'altezza della<aa> / 
+         del parafanghi<ii> dell'altra macchinina rossa
+
+
+<sp>
+
+
+p2F#58:  <mh> <breath>
+
+
+p1G#59:  sei andato ? <sp> #<F#60> obliqua# fino al+ / al parafanghi
+
+
+p2F#60:  #<G#59> sì <breath># <lp> <breath> <mh> #<G#61> <breath>#
+
+
+p1G#61:  <inspiration> poi vai attorno attorno alla macchinina rossa , verso<oo> 
+         destra
+
+
+<lp>
+
+
+p2F#62:  <tongue-click> e no questo non si può fare perché è messa proprio in 
+         maniera diversa
+
+
+<lp>
+
+
+p1G#63:  <inspiration> vai attorno attorno alla macchinina rossa c'hai una 
+         macchinina blu sopra alla rossa ?
+
+
+p2F#64:  no è diverso , è messo diversamente non<nn> non si può andare sopra la 
+         macchinina rossa
+
+
+p1G#65:  no sopra , attorno
+
+
+p2F#66:  e sono già andato attorno <breath> <sp> dopo quella blu / diciamo do+ 
+         dopo che sei andato a quella blu che devi fare ?
+
+
+p1G#67:  <inspiration> quando sta quella blu , devi passare tra la blu e la 
+         rossa devi fare una linea fino al pallino nero
+
+
+<lp>
+
+
+p2F#68:  <breath> <vocal> facciamo / l'unico modo per fare una linea è così 
+         <breath>
+
+
+<lp>
+
+
+p1G#69:  <tongue-click> avrò #<F#70> spiegato bene ?# <laugh>
+
+
+p2G#70:  #<G#69> <tongue-click> allora <NOISE># <lp> allora <eeh> al pallino 
+         nero a te che<ee> che figura c'è ?
+
+
+p1F#71:  ci stanno tante ste+ / uno due tre quattro cinque sei sette otto 
+         #<G#72> stelle#
+
+
+p2G#72:  #<F#71> <ah># adesso <unclear> una farfalla , allora <breath>
+
+
+p1F#73:  <mh> <breath> #<G#74> <laugh>#
+
+
+p2G#74:  #<F#73> <tongue-click> diciamo dalla farfalla <breath># <lp> 
+         <tongue-click> dalla farfalla devi arrivare al camion
+
+
+p1F#75:  <eh> sì va be' <sp> <ah> tu dici / ma la farfalla ce l'hai accanto 
+         #<G#76> a<aa>#
+
+
+p2G#76:  #<F#75> io ce l'ho# accanto al pallino nero <breath>
+
+
+<sp>
+
+
+p1F#77:  e come devo arrivare ? a curva / come devo arrivare
+
+
+<lp>
+
+
+p2G#78:  parti dalla farfalla e arriva al camion in maniera {<breath> obliqua}
+
+
+p1F#79:  ma io la farfalla non ce l'ho #<G#90> Giuseppe#
+
+
+p2G#80:  #<F#79> <breath> <ah> non# ce l'ha+ / #<F#81> <eh> va be' se non ce 
+         l'hai <breath>#
+
+
+p1F#81:  #<G#80> <inspiration> io t+ / scusa tu dici# dove sta il pallino nero 
+         devo andare a destra o a #<G#82> sinistra#
+
+
+p2G#82:  #<F#81> devi# andare a destra in obliquo verso il<ll> camion<nn> rosso 
+         <breath>
+
+
+p1F#83:  <ah> così / poi il camion rosso lo devo<oo> girare attorno #<G#84> 
+         attorno ?#
+
+
+p2G#84:  #<F#83> sì gira# attorno attorno e v+ / e sempre / e vai verso il dado 
+         / il dado #<F#85> sta sopra al camion rosso ?#
+
+
+p1F#85:  #<G#84> <tongue-click> sì ce l'ho il# dado
+
+
+<sp>
+
+
+p2G#86:  e vai sopra anche al dado cioè fai un circolo e vai<ii> sopra il dado 
+         #<F#87> <breath>#
+
+
+p1F#87:  #<G#86> sì# dove sta<aa> / inso+ <vocal> proprio<oo> sopra #<G#88> 
+         sopra il da+#
+
+
+p2G#88:  #<F#87> girando attorno# al camion e attorno al dado , no ? <breath>
+
+
+<lp>
+
+
+p1F#89:  no non ho capito scusa <inspiration> ma il #<G#90> camion / devo fare 
+         un cerchio attorno al camion tipo un cerchio , a zig zag ?#
+
+
+p2G#90:  #<F#89> <tongue-click> sì / no no <eh> no tipo un cerchio / <eh> sì 
+         <inspiration># gli passi<ii> accanto <breath> #<F#91> da dietro# gli 
+         passi #<F#91> accanto#
+
+
+p1F#91:  #<G#90> <mh># <lp> #<G#90> sì#
+
+
+<sp>
+
+
+p2G#92:  <tongue-click> <breath> poi vai sop+ sopra <breath>
+
+
+p1F#93:  <mh>
+
+
+<lp>
+
+
+p2G#94:  <tongue-click> e d+ / andando sopra c'è il dado no ? #<F#95> <breath>#
+
+
+p1F#95:  #<G#94> <tongue-click> sì# c'è
+
+
+p2G#96:  <eh> allo+ vai sopra e passi sopra anche al dado
+
+
+p1F#97:  <mh>
+
+
+<sp>
+
+
+p2G#98:  poi scendi un po' <sp> e vai<ii> / scendi un po' fai a f+ / t+ <vocal> 
+         / tipo a forma<aa> di<ii> <sp> <breath> di cuore <breath>
+
+
+p1F#99:  <mhmh>
+
+
+p2G#100:  a forma di cuore <sp> <inspiration> <sp> scendi un po' fai<ii> <sp> / 
+          e poi risali di nuovo e vai verso il lupo / c'è il lupo dall'altro 
+          lato ? <breath>
+
+
+p1F#101:  <ah> così ?
+
+
+<sp>
+
+
+p2G#102:  <mh> <breath> <sp> #<F#103> vai verso il lupo <breath>#
+
+
+p1F#103:  #<G#102> <laugh># <eh>
+
+
+<sp>
+
+
+p2G#104:  <tongue-click> e poi scendi g+ / g+ / gira intorno al lupo <breath>
+
+
+p1F#105:  <eh>
+
+
+<sp>
+
+
+p2G#106:  e vai<ii> giù verso gli occhiali <breath>
+
+
+<sp>
+
+
+p1F#107:  sì <sp> sono andata
+
+
+p2G#108:  e poi vai giù verso le stelle <breath> <sp> #<F#109> <vocal>#
+
+
+p1F#109:  #<G#108> e il pettine ?#
+
+
+p2G#110:  devi passare in mezzo / no il pettine <eh> il pettine stava dall'altro 
+          lato a me stava nell'altra figura <lp> passa giù per le stelle in 
+          mezzo e basta
+
+
+<lp>
+
+
+p1F#111:  e vado al centro delle #<G#112> stelle ?#
+
+
+p2G#112:  #<F#111> <tongue-click> sì# al centro pro+ , devi passare in mezzo
+
+
+<lp>
+
+
+p1F#113:  e poi vado al pallino nero ?
+
+
+<lp>
+
+
+p2G#114:  <tongue-click> e sì se stai al pallino nero<oo> congiungiti col 
+          pallino nero
+
+
+p1F#115:  <eh> {<NOISE> <lp>} più o meno

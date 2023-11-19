@@ -1,0 +1,457 @@
+TEXT_inf.
+
+MAT:            mt
+MAP:            A
+TRM:
+Ndl:            02
+Ntr:
+Nls:
+REG:            B
+
+
+SPEAKERS_inf.
+
+INp1:		S. R., M, 26, Bari, fluente, G>F
+INp2:		M. P., F, 24, Bari, fluente, F>G
+
+
+RECORDING_inf.
+
+TYP:		DAT
+LOC:		Bari
+DAT:		26/03/01
+DUR:		4.29,507
+CON:		buone
+
+
+TRANSCRIPTION_inf.
+
+DAT:		24/01/02
+CMT:		segnale spesso saturato
+Nst:		110
+
+
+
+p1G#1:  <inspiration> allora la partenza è / <vocal> vedi il televisore giù in basso ? #<F#2> <NOISE>#
+
+
+p2F#2: {<NOISE> <sp>} #<G#1> <tongue-click> sì#
+
+
+<sp>
+
+
+p1G#3:  <eeh> u+ <vocal> un po' più su , sulla sinistra <NOISE>
+
+
+<lp>
+
+
+p2F#4:  <ehm> <NOISE> un po' più su <sp> #<G#5> sulla sinistra , sì# {<NOISE> <lp>} #<G#5> {[whispering] <unclear>}#
+
+[questo <ehm> è una pausa piena solo nasale, però non mi sembra il caso di trascriverla con <mh>]
+
+
+p1G#5:  #<F#4> sì <unclear> <sp> <vocal> sì# <sp> <vocal> è / è lì la partenza #<F#4> ora , devi fare un giro intorno al televisore# in <sp> 
+        in basso
+
+
+<sp>
+
+
+p2F#6:  un<nn> #<G#7> cerchio# ?
+
+
+p1G#7:  #<F#6> <inspiration># verso il basso del foglio <sp> #<F#8> sì , più o meno#
+
+
+p2F#8:  #<G#7> <mbè?># <sp> #<G#7> c'è sotto# il televisore ?
+
+[mi viene il dubbio che il locutore dice "cioè" e non "c'è"; la prima parte della parola "sotto" è detta a volume più alto rispetto al resto della frase]
+
+
+p1G#9:  <vocal> sì passa da sotto il #<F#10> televisore <NOISE>#
+
+
+p2F#10:  #<G#9> devo fare una<aa># / una linea
+
+
+p1G#11:  <vocal> no no <eeh> una linea curva <sp> che passa st+ / che parti da dov+ / da dove t'ho detto #<F#12> e passa sotto il 
+         televisore#
+
+[non riesco a capire se la trascrizione più giusta sia: "/ che parti <unclear> da dove" "/ che / parti <unclear> da dove" ]
+
+
+p2F#12:  #<G#11> <inspiration> che# parte dalla macchina ?
+
+
+<sp>
+
+
+p1G#13:  <vocal> un po' più giù della macchina una decina #<F#14> di centimetri# più giù <sp> #<F#14> <inspiration> a sinistra# 
+         del televisore #<F#14> <inspiration>#
+
+
+p2F#14:  #<G#13> sì# <lp> #<G#13> okay# <lp> #<G#13> <mbè?>#
+
+
+p1G#15:  passi da #<F#16> sotto l+ / il# televisore
+
+
+p2F#16:  #<G#15> <NOISE># <lp> sì
+
+
+p1G#17:  <inspiration> <vocal> e #<F#18> adesso l+# / la fai comunque curva
+
+
+p2F#18:  #<G#17> <NOISE># <lp> sì
+
+
+<lp>
+
+[si avvertono dei rumori, è difficile definire a quale dei due parlanti attribuirli]
+
+
+p1G#19:  {<NOISE> e devi passare anche da sotto la torta però facendo prima un arco all'in+ <sp> #<F#20> all'interno#}
+
+
+p2F#20:  {<NOISE> #<G#19> quindi sopra# gli sci}
+
+
+<NOISE>
+
+
+p1G#21:  sopra ? <lp> sopra che ?
+
+
+p2F#22:  <vocal> <breath> <lp> sopra gli sci
+
+[in realtà <breath> è rumore simile ad un fruscio, non si può indicare con precisione se si tratti di un respiro o un fruscio dovuto alla registrazione]
+
+
+p1G#23:  gli sci ?
+
+
+p2F#24:  {<laugh> non ci sono ?}
+
+
+p1G#25:  #<F#26> <laugh> {<laugh> non ce li ho gli sci <inspiration> ok+ okay sì <ehm> se tu ce li hai <sp> se tu 
+         ce li hai so+} <NOISE>#
+
+[in questo caso con <NOISE> indico lievi rumori prodotti dal parlante con la bocca]
+
+
+p2F#26:  #<G#25> <laugh> {<laugh> okay , comunque s+} <sp> sotto# / quindi sotto la torta devo andare
+
+
+p1G#27:  <vocal> passa sotto la torta
+
+
+p2F#28:  #<G#29> <mh>#
+
+
+p1G#29:  #<F#28> <inspiration># fai un giro completo intorno alla #<F#30> torta#
+
+
+p2F#30:  #<G#29> sì#
+
+
+p1G#31:  e / e comincia ad andare nella direzione opposta
+
+
+<lp>
+
+
+p2F#32:  quindi verso di nuovo il #<G#33> televisore#
+
+
+p1G#33: #<F#32> <NOISE> <vocal># verso di nuovo il televisore prima <sp> diritto quando arrivi al / più o meno all'altezza del televisore <inspiration> 
+         #<F#34> comincia a# curvare verso la macchina rossa #<F#34> che sta# su <inspiration>
+
+
+p2F#34:  #<G#33> sì# {<NOISE> <lp>} <lp> <ahah>
+
+
+p1G#35:  <NOISE> <vocal> la vedi ?
+
+
+<sp>
+
+
+p2F#36:  sì
+
+
+p1G#37:  <vocal> giri completamente intorno alla #<F#38> macchina rossa#
+
+
+p2F#38:  #<G#37> <ah> devo girare intorno# alla macchina
+
+
+p1G#39:  sì
+
+
+p2F#40:  <mbè?>
+
+
+p1G#41:  <inspiration> <tongue-click> e vai s+ <NOISE> <vocal> <lp> una linea più o meno diritta verso l'altra macchina rossa
+
+
+<lp>
+
+
+p2F#42:  l'altra macchina rossa
+
+
+p1G#43:  ce l'hai #<F#44> l'altra macchina#
+
+
+p2F#44:  #<G#43> che non# ho <lp> <ah> è una macchina blu a me
+
+[ci sarebbero delle sovrapposizioni che forse andrebbero segnalate: "#<G#45> <ah> è una macchina blu a me#", ma temo di appesantire troppo la trascrizione. Si tratta di <vocal> di p1 e il rumore dell'interferenza di questo p2F#44 (1:35.869-1:37.406)]
+
+
+<sp>
+
+
+p1G#45:  è blu #<F#46> <inspiration> o+ / <vocal> o+ / <breath> okay# sì <vocal>
+
+
+p2F#46: #<G#45> sì# <sp> #<G#45> quindi vado# verso quest'altra #<G#45> macchina# <lp> e che #<G#47> faccio# ?
+
+
+p1G#47: #<F#46> <inspiration># e giri completamente intorno anche a questa #<F#48> macchina c+#
+
+
+p2F#48:  #<G#47> intorno<oo># da sinistra o da destra ?
+
+
+<sp>
+
+
+p1G#49:  {[whispering] <eh> questa è bella da sinistra #<F#50> <vocal>} sotto <unclear>#
+
+[in realtà questa parte: {[whispering] <eh> questa è bella da sinistra <vocal>}, non è sussurrata ma solo a volume molto basso]
+
+
+p2F#50:  #<G#49> <laugh> <NOISE> sotto la macchina# ?
+
+
+p1G#51:  <inspiration> <eh!> no sotto la macchina , #<F#52> devi fare il giro completo intorno però <inspiration> tenendo presente verso <ii>il / la 
+         parte bassa del foglio# <sp> no verso la parte alta #<F#52> <inspiration>#
+
+
+p2F#52:  #<G#51> {[whispering] <unclear> <breath> <NOISE> <eh>} <NOISE># <lp> #<G#51> <ah> okay#
+
+
+p1G#53:  <tongue-click> e / e ci so+ / a me c'è anche una macchina blu #<F#54> sopra <sp> devi passare <sp> tra questa macchina rossa e la 
+         macchina blu di <inspiration> <laugh> {<NOISE> <lp>} <vocal>#
+
+
+<sp>
+
+
+p2F#54:  #<G#53> {[whispering] <laugh>} e a me non c'è <inspiration> cioè a me c'è ma è quella che tu hai indicato come# rossa <lp> #<G#55> 
+         <laugh>#
+
+[c'è una sensibile differenza di volume tra la prima e la seconda parte del turno, in più la seconda parte è saturata. Ci sono dei piccoli rumori dopo "e a me non c'è"-proposta: {<laugh> e a me non c'è} ]
+
+
+p1G#55:  <ah> sì speriamo che ci stiamo #<F#54> capendo sì <inspiration> <vocal> va be' comunque# <vocal> 
+         fai un giro completo intorno a questa #<F#56> macchina rossa# <breath>
+
+
+p2F#56:  #<G#55> s+# <lp> <ah> #<G#57><mbè> sì#
+
+
+p1G#57:  #<F#56> <tongue-click> <inspiration># e ora vai verso <sp> più o meno il centro del foglio
+
+[a questo turno si sovrappongono dei rumori che però non sembrano appartenere al dialogo]
+
+
+p2F#58:  <ahah> <lp> #<G#59> sì#
+
+
+p1G#59:  #<F#58> sei arrivata# più o meno al centro del #<F#60> foglio se / se vai da+# / diritta ? #<F#60> <inspiration>#
+
+[in realtà questo "da+" potrebbe essere un "<unclear>"]
+
+
+p2F#60:  #<G#59> sono arrivata# <lp> #<G#59> sì#
+
+
+p1G#61:  e ti fermi lì
+
+
+p2F#62:  #<G#63> okay#
+
+
+p1G#63:  #<F#62> <inspiration> e# poi tocca a te <inspiration>
+
+
+<lp>
+
+
+p2G#64:  <inspiration> <NOISE> allora adesso <lp> #<F#65> devi# <lp> <eeh> se+ / da quel punto in cui mi sono fermata io
+
+
+p1F#65:  #<G#64> <inspiration># <sp> <mh> <breath> {<NOISE> <lp>} sì #<G#66> <inspiration>#
+
+
+p2G#66:  #<F#65> vai# un po' in alto <sp> #<F#67> circa<aa># dieci quindici centimetri
+
+[segnale saturato sulla parola "circa"]
+
+
+p1F#67:  #<G#66> {[whispering] un po' in al+}# <lp> sì #<G#66> <inspiration>#
+
+
+p2G#68:  #<F#67> <inspiration># e troverai una farfalla
+
+
+<lp>
+
+
+p1F#69:  no <lp> #<G#70> non ce l'ho# la farfalla #<G#70> dammi qualche altra indicazione <inspiration> <vocal> <breath>#
+
+
+p2G#70:  #<F#69> {[whispering] come no ?}# <sp> #<F#69> <inspiration> allora va be' tu comunque <eeh># dieci quindici 
+         centimetri in su , no?
+
+
+p1F#71:  sì
+
+
+p2G#72:  continua / <ehm> adesso spostati verso destra <sp> #<F#73> del foglio#
+
+
+p1F#73:  #<G#72> <NOISE> io ho un dado# hai un dado ?
+
+[tra questi rumori iniziali ci sono alcuni battimenti che potrebbero essere le prime vibrazioni (creaky) delle corde vocali per la "i" (2:58.991). Segnale saturato]
+
+
+p2G#74:  <inspiration> sì , però<oo> <sp> prima di arrivare al dado io ho <uu>un camion
+
+
+p1F#75:  <inspiration> sì ce l'ho pure io #<G#76> e dimmelo <unclear> <laugh>#
+
+
+p2G#76:  #<F#75> <NOISE> <ah!> okay allora passa sulla destra del camion# #<F#77> <inspiration>#
+
+
+p1F#77:  #<G#78> <ah> <eeh># basta dire camion <sp> #<G#78> <unclear># <inspiration> #<G#78> sì#
+
+
+p2G#78:  ecco #<F#77> <tongue-click># <sp> {[screaming] #<F#77> e<ee># fai una<aa> / una leggera<aa>} <inspiration> <eeh> una leggera curva <lp> so+ / sul camion #<F#79> 
+         capito# ?
+
+
+p1F#79:  #<G#78> <NOISE># sì
+
+
+p2G#80:  superand+ / andando anche sopra al dado
+
+
+p1F#81:  <ah> sì <sp> ci #<G#82> vado#
+
+
+p2G#82:  #<F#81> quindi# fai tutto questo giro dall+ / da dove ti ho io da quei dieci centimetri
+
+
+p1F#83:  <tongue-click> sì <uu>una linea curva che prende il #<G#84> camion e il dado {<NOISE> <sp>} <vocal>#
+
+
+p2G#84:  #<F#83> che prende sia il dado / sia il camion che il dado# , però da sopra
+
+
+p1F#85:  sì
+
+
+p2G#86:  <mh> <inspiration> poi scendi
+
+
+<lp>
+
+
+p1F#87:  scendo , dove #<G#88> vado# ?
+
+
+p2G#88:  #<F#87> andando# da+<aa> dal / dal dado #<F#89> scendi un po' fai una curva in giù# sì
+
+
+p1F#89:  #<G#88> <vocal> faccio / giro# {<vocal> <lp>} giro completamente intorno al #<G#90> dado#
+
+[soluzione dubbia, però sembra la migliore]
+
+
+p2G#90:  #<F#89> no# / sì ma non intorno , fai una curva in giù cioè prima sopra e poi , scendi in giù
+
+
+p1F#91:  sì
+
+
+p2G#92:  #<F#93> no# ?
+
+
+p1F#93:  #<G#92> <vocal> io# ho una bicicletta
+
+[forse si può evitare di segnalare questo <vocal>]
+
+
+p2G#94:  io no
+
+
+p1F#95:  <vocal> <ah> #<G#96> <inspiration>#
+
+
+p2G#96:  #<F#95> io# <sp> ho un <ehm> <lp> <vocal> <sp> un lupo <NOISE> {[whispering] è un lupo ? #<F#97> {<NOISE> sì <NOISE>} [whispering]} <inspiration>#
+
+
+p1F#97:  #<G#96> <ah!> il lupo ma sta / <unclear> è molto più avanti il lupo <eh>#
+
+
+p2G#98:  e sì tu f<ff>+ / prima fai questa curva in giù no ?
+
+
+p1F#99:  sì
+
+
+p2G#100:  poi risali e fai un <ehm> cerchio intorno al lupo <lp> fino alla zampina del lupo , sotto
+
+
+<sp>
+
+
+p1F#101:  sì
+
+
+p2G#102:  <mh> <inspiration> poi scendi di nuo+ / #<F#103> tu hai degli occhiali# ?
+
+
+p1F#103:  #<G#102> <inspiration># sì <sp> #<G#104> <unclear> <laugh># <inspiration> sotto gli #<G#104> occhiali#
+
+[è un tipo di domanda ma va segnalata col "?" ?]
+
+
+p2G#104:  #<F#103> okay <inspiration> sempre sotto gli occhiali# <lp> #<F#103> sì# <inspiration> e adesso <ehm> fai / vai sempre <eeh> diritto sino al 
+          centro <sp> dove mi hai fatto fermare
+
+
+p1F#105:  <tongue-click> c'è un pettine<ee> #<G#106> giù#
+
+
+p2G#106:  #<F#105> no# no no no no no no , dove mi hai fatto fermare
+
+
+<sp>
+
+
+p1F#107:  <unclear> ritorno lì
+
+
+p2G#108:  sì <sp> fermati lì
+
+
+p1F#109:  okay #<G#110> <inspiration>#
+
+
+p2G#110: #<F#109> okay# ?

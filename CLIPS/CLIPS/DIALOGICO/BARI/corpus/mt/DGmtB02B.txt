@@ -1,0 +1,783 @@
+TEXT_inf.
+
+MAT:            mt
+MAP:            B
+TRM:
+Ndl:            02
+Ntr:
+Nls:
+REG:            B
+
+
+SPEAKERS_inf.
+
+INp1:		T. S.M., F, 24, Bari, spontaneo, fluente, G>F
+INp2:		P. N., M, 24, Bari, spontaneo, fluente, F>G
+
+
+RECORDING_inf.
+
+TYP:		DAT
+LOC:		Bari/Università
+DAT:		10/05/01
+DUR:		7.12,695
+CON:		ottime
+
+
+TRANSCRIPTION_inf.
+
+DAT:		23/12/01
+CMT:		il segnale, p1 in particolare, è spesso saturato
+Nst:		165
+
+
+p1G#1:  <inspiration> <sp> {[whispering] allora} <sp> <ehm> gira a destra 
+        dei limoni
+
+
+p2F#2:  a destra dei #<G#3> limoni sì#
+
+
+p1G#3:  #<F#2> sì# <sp> <inspiration> <sp> <eeh> vai<ii> in basso
+
+
+<sp>
+
+
+p2F#4:  quanto ?
+
+
+<sp>
+
+
+p1G#5: <inspiration> <sp> <eeh> di poco intorno ai #<F#6> limoni#
+
+
+p2F#6:  #<G#5> <tongue-click> <sp> <ah># quindi<ii> #<G#7> faccio<oo> / 
+        intorno ai limoni vad+#
+
+
+p1G#7:  #<F#6> sì gira intorno proprio# ai limoni
+
+
+<sp>
+
+
+p2F#8:  yes <inspiration> #<G#9> poi# ?
+
+"yes" è un termine straniero e non è riportato nel dizionario di De Mauro.
+
+
+p1G#9:  #<F#8> poi# <eeh> devi scendere passando<oo> <ehm> vicino al 
+        margine del foglio <sp> fino al gatto
+
+
+<sp>
+
+
+p2F#10:  <tongue-click> <sp> aspetta ma il frigorifero lo prendo dalla<aa> 
+         sinistra ?
+
+
+<sp>
+
+
+p1G#11:  no no no non lo toccare proprio il frigori+ / #<F#12> proprio 
+         intorno# intorno ai limoni
+
+
+p2F#12:  #<G#11> sì q+# <lp> <ah> intorno #<G#13> intorno ai limoni#
+
+
+p1G#13:  #<F#12> proprio intorno intorno#
+
+
+<sp>
+
+
+p2F#14:  e vabbè e poi scendo #<G#15> però il frigorifero<oo># ?
+
+
+p1G#15:  #<F#14> scendi# <sp> no ignoralo
+
+
+<sp>
+
+
+p2F#16:  <tongue-click> <sp> <eh> sì però vado v+ / al margine del foglio 
+         quindi vado sulla sinistra del frigorifero
+
+
+<lp>
+
+
+p1G#17:  <tongue-click> <sp> devi rim+ <sp> devi rimanere sulla tua 
+         sinistra <sp> <tongue-click> <sp> gira <sp> a #<F#18> destra#
+
+
+p2F#18:  #<G#17> sì# Stefania e #<G#19> quindi# alla sinistra del 
+         frigorifero
+
+
+p1G#19:  #<F#18> <eh># <lp> <tongue-click> <sp> sì
+
+
+<sp>
+
+
+p2F#20:  <ah>
+
+
+<sp>
+
+
+p1G#21:  ma devi andare proprio giù in <sp> #<F#22> al margine de+# 
+         <inspiration> fino al gatto
+
+
+p2F#22:  #<G#21> <eh> sì aspe+# <lp> quindi fino al #<G#23> gatto#
+
+
+p1G#23:  #<F#22> <mh>#
+
+
+<sp>
+
+
+p2F#24:  al gatto che faccio ? da sinistra o da #<G#25> destra ?#
+
+
+p1G#25:  #<F#24> passa# sotto
+
+
+<sp>
+
+
+p2F#26:  da sinistra però
+
+
+<sp>
+
+
+p1G#27:  sì
+
+
+<sp>
+
+
+p2F#28:  <mh>
+
+
+<sp>
+
+
+p1G#29:  risali
+
+
+<sp>
+
+
+p2F#30:  aspetta aspetta Stefa' !
+
+
+p1G#31:  <laugh>
+
+
+p2F#32:  il gatto da sotto
+
+
+<sp>
+
+
+p1G#33:  sì
+
+
+<sp>
+
+
+p2F#34:  <mbè> <sp> poi<ii> vado adiacente ? o<oo> vado un po' / me la 
+         prendo larga la #<G#35> cosa qua# ?
+
+
+p1G#35:  <mh> <lp> #<F#34> <inspiration># no<oo> devi rimanere fra il 
+         gatto e la mano
+
+
+p2F#36:  la mano ?
+
+
+<lp>
+
+
+p1G#37:  <eh>
+
+
+<sp>
+
+
+p2F#38:  ddu [dialect] {[laughing] sta la #<G#39> mano ?#}
+
+
+p1G#39:  #<F#38> sei# andato {[laughing] da tutt'altra parte ?} <breath> 
+         <sp> <laugh>
+
+
+<sp>
+
+
+p2F#40:  Stefania {[laughing] la mano sta da} tutt'altra parte perché il 
+         gatto sta {[laughing] giù}
+
+
+p1G#41:  #<F#42> <eh> <sp> e <sp> <ehm>#
+
+
+p2F#42:  #<G#41> <eh> <mbè> la {[laughing] mano}# sta su a destra #<G#43> 
+         {[laughing] a<aa> / in alto}#
+
+
+p1G#43:  #<F#42> e ce n'è ce n'è un'altra# giù
+
+
+p2F#44:  <ehm> veramente io non vedo {[laughing] niente #<G#45> Stefania#}
+
+
+p1G#45:  #<F#44> non ce l'hai ?# #<F#46> vabbè non fa niente ignora allora 
+         risali#
+
+
+p2F#46:  #<G#45> {[laughing] non ce l'ho io <inspiration>} allora# <sp> 
+         <breath> aspetta il gatto ? <sp> sta sotto
+
+
+p1G#47:  <mh>
+
+
+<sp>
+
+
+p2F#48:  <mbè?> e mo' #<G#49> che faccio ? c'ho il ta+ / aspett+# che io 
+         c'ho qua il treno con la locomotiva tu ce l'hai ?
+
+
+p1G#49:  #<F#48> allora gira intorno# <P> <tongue-click> <sp> {[dialect] 
+         'nna<aa> , {[laughing] 'nn'anca [laughing]} [dialect]}
+
+
+p2F#50:  {[laughing] <ehm> <sp> #<G#51> <unclear>#}
+
+
+p1G#51:  {[laughing] #<F#50> <inspiration> <sp> vabbè# #<F#52> comunque#}
+
+
+p2F#52:  {[laughing] #<G#51> <inspiration> <sp> allora# ho capito sono 
+         diversi}
+
+
+p1G#53:  allora intorno al gatto risali
+
+
+<sp>
+
+
+p2F#54:  allora intorno al gatto e risa+ / ma il gatto tu ce l'hai in basso a de+ / a sinistra ?
+
+
+p1G#55 :  sì
+
+
+<sp>
+
+
+p2F#56:  <ah> <sp> <mbè> almeno lì #<G#57> <inspiration> <sp> allora <eeh> 
+         che devo fare mo' hai detto ?#
+
+
+p1G#57:  #<F#56> <laugh> <sp> <inspiration> <lp> allora vai su# <sp> per 
+         un po'
+
+
+<sp>
+
+
+p2F#58:  al ga+ / alla destra del #<G#59> gatto ?# <sp> vado alla freccia ? 
+         tu ce l'hai la #<G#59> freccia al centro ? allo'#
+
+
+p1G#59:  #<F#58> sì# <lp> #<F#58> sì <vocal> <sp> gira intorno# alla 
+         freccia
+
+
+p2F#60:  da destra o da sinistra ?
+
+
+<sp>
+
+
+p1G#61:  <vocal> andando verso destra <sp> #<F#62> il tratto è# verso 
+         #<F#62> destra#
+
+
+p2F#62:  #<G#61> aspett+# <sp> #<G#61> aspetta# aspetta <lp> 
+         la freccia
+
+
+p1G#63:  <mh>
+
+
+<lp>
+
+
+p2F#64:  sulla destra
+
+
+<sp>
+
+
+p1G#65:  <tongue-click> <sp> <inspiration> sì
+
+
+<sp>
+
+
+p2F#66:  yes #<G#67> <inspiration> poi ?#
+
+"yes" è un termine straniero e non è riportato nel dizionario di De Mauro.
+
+
+p1G#67:  #<F#66> <tongue-click> <sp> poi torna# in basso
+
+
+<sp>
+
+
+p2F#68:  <mbè?> com'è s+ ? <lp> in basso ?
+
+
+<sp>
+
+
+p1G#69:  sì <sp> #<F#70> torna giù#
+
+
+p2F#70:  #<G#69> la barca# c'hai la barca tu ce l'hai la #<G#71> barca ?#
+
+
+p1G#71:  #<F#70> <laugh># <sp> {[laughing] no} #<F#72> <laugh> <sp> mi 
+         rimangono un# cuoricino e una {[laughing] sedia} <sp> <laugh>
+
+
+p2F#72:  #<G#71> <laugh># <P> e vabbè io ho #<G#73> fatto così#
+
+
+p1G#73:  #<F#72> vabbè comunque# tu vai in giù
+
+
+p2F#74:  <clear-throat> allora aspetta Stefania tu mi hai detto la freccia 
+         che io la devo prendere da destra 
+
+
+p1G#75:  sì <lp> #<F#76> tu arrivi# da sinistra con #<F#76> il tratto#
+
+
+p2F#76:  #<G#75> <mh># <lp> #<G#75> <tongue-click> <sp> io arrivo da 
+         sinistra# dal #<G#77> gatto e poi vado <sp> sotto la freccia# 
+         però sotto la freccia <sp> #<G#77> o sopra la# freccia ?
+
+
+p1G#77:  #<F#76> e vai verso destra# <lp> #<F#76> sì# <lp> passa da sopra 
+         alla freccia
+
+<sp>
+
+
+p2F#78:  <eh> <sp> <ehm> vabbè allo' io so+ passato da<aa>
+
+
+p1G#79:  no allora devi passare da sopra #<F#80> alla freccia#
+
+
+p2F#80:  #<G#79> e vabbè lo correggo# <sp> corretto <laugh> <inspiration> 
+         facciamo così <lp> <tongue-click> <sp> passo da sopra
+
+
+p1G#81:  <tongue-click> <sp> sì <sp> e poi <eeh> scendi di nuovo
+
+
+<sp>
+
+
+p2F#82:  <ah> <sp> <inspiration> <sp> <eeh> allora , praticamente io qua 
+         c'ho una barca / c'ho un oggetto vicino andando verso sinistra
+
+
+p1G#83:  <tongue-click> <sp> e non devi andare verso sin+ / devi 
+         semplicemente scendere
+
+
+p2F#84:  scendo #<G#85> però vado<oo># <sp> 
+         all'oggetto che sta sotto / adesso #<G#85> normalmente scendendo# 
+         c'è un oggetto <sp> <inspiration> <sp> io vado alla destra o alla 
+         sinistra dell'oggetto ?
+
+
+p1G#85:  #<F#84> sì# <P> n+ <sp> n+ <sp> <eeh> no devi arrivare fino giù 
+         sempre dritto fino giù 
+
+
+p2F#86:  <tongue-click> <sp> sì ho capito Stefania #<G#87> ma#
+
+
+p1G#87:  {[screaming] #<F#86> e poi devi# girare <sp> a destra}
+
+
+p2F#88:  aspetta <eeh> <sp> domanda ripeto <sp> io #<G#89> dalla freccia 
+         <sp> a sini+# / alla #<G#89> destra <sp> <inspiration> <sp> 
+         scendendo# ho un oggetto a me risulta una #<G#89> barca gialla#
+
+
+p1G#89:  #<F#88> <eh> <sp> sì# <lp> #<F#88> sì <sp> hai un oggetto# <lp> 
+         <tongue-click>  <sp> #<F#88> sì <sp> <inspiration># <sp> devi 
+         andare ancora più giù
+
+
+p2F#90:  alla destra o alla sinistra della barca ?
+
+
+<sp>
+
+
+p1G#91:  <inspiration> <sp> alla<aa> / a destra
+
+
+<sp>
+
+
+p2F#92:  <ah>
+
+
+<sp>
+
+
+p1G#93:  poi dovrebbe esserci un altro oggetto
+
+
+<sp>
+
+
+p2F#94:  {[screaming] la sedia} all'#<G#95> angolo#
+
+
+p1G#95:  #<F#94> la sedia# #<F#96> gira intorno# alla sedia sempre verso 
+         destra
+
+
+p2F#96:  #<G#95> <ahah># <lp> allora aspetta Stefania però non mi stai 
+         aiutando perché qua mi stanno aiutando gli altri tu non 
+         {[dialect] mi sta faci capi+ nudd+}
+
+
+<sp>
+
+
+p1G#97:  #<F#98> <laugh> <sp> <laugh> <inspiration>#
+
+
+p2F#98:  {[whispering] posso parlare in dialetto sì ?} <lp> {[whispering] 
+         #<G#97> <ehm> non se puede val+#} <sp> <inspiration> <sp> 
+         #<G#97> <eeh># niente <sp> allora praticamente <sp> <clear-throat> 
+         <sp> la barca <sp> io #<G#99> sto scendendo# a s+ <eeh> <sp> la 
+         sedia tu ce l'hai ?
+
+"se puede" e "val+" sono stati considerati termini stranieri, ma nel primo caso 
+potrebbe trattarsi anche di dialetto.
+
+
+p1G#99:  #<G#98> sì# <lp> <tongue-click> <sp> sì
+
+
+p2F#100:  allora aspetta mo' dalla sedia a destra o a sinistra ?
+
+
+p1G#101:  a destra
+
+
+p2F#102:  {[whispering] dalla sedia a destra ?}
+
+
+p1G#103:  sì
+
+
+p2F#104:  ma devo scendere ? devo<oo> andare #<G#105> sotto la sedia ?#
+
+
+p1G#105:  #<F#104> {[screaming] sotto la sedia}# 
+
+
+p2F#106:  da destra però #<G#107> la prendo ?#
+
+
+p1G#107:  #<F#106> a destra#
+
+
+<sp>
+
+
+p2F#108:  #<G#109> quindi da de+#
+
+
+p1G#109:  #<F#108> sotto la# sedia e poi a destra
+
+
+<sp>
+
+
+p2F#110:  <ah> sotto la sedia
+
+
+p1G#111:  e poi a #<F#112> destra#
+
+
+p2F#112:  #<G#111> poi# a destra ?
+
+
+p1G#113:  e risali per un po' e poi c'ho io il puntino
+
+
+p2F#114:  <ah> e poi ce l'ho io il puntino #<G#115> {[laughing] aspetta}# 
+          <lp> #<G#115> <inspiration> <clear-throat>#
+
+
+p1G#115:  #<F#114> <ah> <sp> <vocal> <sp> <laugh># <sp> <tongue-click> <sp> 
+          #<F114> ci siamo ?#
+
+a questo punto si invertono i ruoli , p1G>F , p2F>G
+
+
+p2G#116:  <inspiration> {[screaming] allora Stefania} #<F#117> <breath># 
+          <lp> tu adesso <sp> ragioniamo <sp> salendo fai più o 
+          meno un {<NOISE> cinque centi+ / no <sp> tre centimetri} 
+          #<F#117> in <eeh># orizzonta+ / in <eeh> verticale sopra dritti
+
+
+p1F#117:  #<G#116> sì # <lp> #<G#116> <mhmh># <lp> sì
+
+
+p2G#118:  <mh> <inspiration> c'hai una pipa ?
+
+
+p1F#119:  sì
+
+
+<sp>
+
+
+p2G#120:  <oh!> <inspiration> <sp> la pipa <sp> vai<ii> salendo però vai 
+          sulla sinistra 
+
+
+<sp>
+
+
+p1F#121:  sì
+
+
+<sp>
+
+
+p2G#122:  sali #<F#123> <inspiration> fino# al<ll> <sp> <NOISE> <breath> 
+          <sp> <tongue-click> <sp> {[whispering] al / come si chiama ? la 
+          pipa / dove metti il tabacco / il<ll> il #<F#123> beccuccio là 
+          non quello che metti in bocca l'altra parte# fino al coso là} 
+          <inspiration> quindi arrivi più o meno all'altezza del <sp> 
+          del<ll> del <eeh> <sp> dove metti il tabacco #<F#123> non lo so 
+          come si chiama#
+
+
+p1F#123:  #<G#122> sì# <lp> #<G#122> <tongue-click> <ah> sì <sp> il forno 
+          vabbè# <lp> #<G#122> <tongue-click> sì# 
+
+
+p2G#124:  <inspiration> <sp> <mh> <sp> <inspiration> <sp> poi c'è un <sp> 
+          sali <sp> #<F#125> più o meno in# verticale
+
+
+p1F#125:  #<G#124> <mhmh># <lp> sì
+
+
+<sp>
+
+
+p2G#126:  e ti troverai <sp> alla destra di quest'oggetto che si chiama 
+          <eeh> / c'è il bar qui
+
+
+p1F#127:  sì
+
+
+<sp>
+
+
+p2G#128:  <mh> <inspiration> allora vai vicino a / dove c'è la mensola 
+          del<ll> del bar dove stanno i liquori #<F#129> là #
+
+
+p1F#129:  #<G#128> sì#
+
+
+<sp>
+
+
+p2G#130:  più o meno arriva con la penna alla metà <sp> all'altezza della 
+          metà di quell'#<F#131> oggetto#
+
+
+p1F#131:  #<G#130> <ah> <vocal># va bene #<G#132> sì#
+
+
+p2G#132:  #<F#131> <mh># <inspiration> <sp> poi <sp> più o meno 
+          <inspiration> al / con un'angolatura di quarantacinque gradi <sp> 
+          <clear-throat> <sp> vai alla destra della mano <sp> 
+          <tongue-click> <sp> <ah!> vai alla / la mano <eeh> a me sta<aa> / 
+          aspetta allora vai alla destra #<F#133> dell'ogge+#
+
+
+p1F#133:  #<G#132> vabbè ce l'ho anch'io# la mano
+
+
+p2G#134:  <ah!> <sp> <eeh> <sp> <unclear> #<F#135> <inspiration> <laugh> 
+          <inspiration> allo' vai alla destra dell'oggetto là#
+
+
+p1F#135:  #<G#134> <laugh> <sp> sì#
+
+
+p2G#136:  sali
+
+
+p1F#137:  sì
+
+
+<lp>
+
+
+p2G#138:  fino al <sp> <breath> <sp> l'altezza più o meno <sp> 
+          <inspiration> <sp> di cinque centimetri rispetto al margine 
+          superiore
+
+
+<sp>
+
+
+p1F#139:  quindi fino su
+
+
+<sp>
+
+
+p2G#140:  su su #<F#141> però capito# <ehm> <lp> <nn>non fino sopra sopra 
+          più o meno cinque d+ centimetri di distan+ <sp> #<F#141> tre 
+          centimetri# quattro di #<F#141> distanza#
+
+
+p1F#141:  #<G#140> vabbè# <lp> #<G#140> vabbè# <sp> #<G#140> più o meno#  
+
+
+p2G#142:  <inspiration> <mh> <inspiration> poi <sp> in orizzontale sulla 
+          sinistra fino al<ll> polso <sp> dritto
+
+
+p1F#143:  <ah!>
+
+
+p2G#144:  l'altezza del polso sai da sopra
+
+
+<sp>
+
+
+p1F#145:  sì
+
+
+<sp>
+
+
+p2G#146:  vai fino al polso e falla #<F#147> dritta#
+
+
+p1F#147:  #<G#146> sì#
+
+
+p2G#148:  poi comincia a scendere ti prendi il cuore giallo cioè / ossia 
+          l'#<F#149> ultimo# ogg+ l'u+ l'oggetto che sta più #<F#149> in 
+          alto# <sp> <inspiration> <sp> #<F#149> lo prendi da sotto#
+
+
+p1F#149:  #<G#148> sì# <sp> #<G#148> da sotto ?# <lp> sì
+
+
+p2G#150:  e arrivi <sp> più o meno con una<aa> linea sinuosa <inspiration> 
+          fino al<ll> / tu ce l'hai il secondo cuore rosso ?
+
+
+p1F#151:  <nn>no <sp> io ho una barchetta e un gelato <lp> #<G#152> a+ / 
+          la barchetta#
+
+
+<sp>
+
+
+p2G#152:  #<F#151> allor+# <sp> #<F#151> allora <sp> praticamente# arrivi / 
+          brava ! <inspiration> <lp> <eeh> <sp> tra il cuore e la barchetta 
+          <sp> #<F#153> però# fino alla fine della barchetta fai questa 
+          linea sinuosa
+
+
+p1F#153:  #<G#152> <mhmh># <lp> okay
+
+
+<sp>
+
+
+p2G#154:  <mh> <inspiration> poi praticamente <sp> <clear-throat> <sp> 
+          <tongue-click> <inspiration> ti prendi <sp> il gelato / fai 
+          la<aa> circumnavigazione del gelato
+
+
+p1F#155:  da sotto ?
+
+
+p2G#156:  da sotto <inspiration> fino ad arrivare più o meno all'altezza 
+          della ciliegia che sta sul gelato
+
+
+p1F#157:  sì
+
+
+p2G#158:  e<ee> <sp> continua per tre<ee> centimetri<ii> <sp> verso <lp> 
+          nordest
+
+
+<lp>
+
+
+p1F#159:  Nicola #<G#160> nordest ? <sp> <inspiration>#
+
+
+p2G#160:  #<F#159> nordest#
+
+
+p1F#161:  destra o {[laughing] sinistra ?} #<G#162> <laugh>#
+
+
+p2G#162:  #<F#161> sinistra# però hai capito ? un po' più su / non dritto 
+          orizzontale , capito<oo> ? in obliqua
+
+
+p1F#163:  <mh>
+
+
+p2G#164:  fermate [dialect] <sp> arrivo
+
+
+p1F#165:  {[whispering] va bene <sp> sarà più o meno da queste parti}
